@@ -25,20 +25,20 @@ There are 4 notebooks in this project and some additional data in data folder:
 With these goals and overall project in mind, we will start this journey!
 
 ## Process
-### We will be utilizing various python libraries and modules which we will be importing throughout the project
-### In Part 1, we start with CityBikes API, we go through the documentation and call the data using the API
-### For location, we will choose Toronto, we will also use all the station's location for our Part 2's API call
-### We get station names, number of free bikes, bikes in use alongside the latitude and longitude of the station and we save it in our Pandas dataframe
-### Then we start with Foursquare and Yelp API. We choose bars, restaturant and banks as our points of interest (POI)
-### We use each station's location to get information on our POIs.
-### Yelp gives additional information like rating, review count and price. But due to API limitation, we got most number of observations from Foursquare
-### We use the Foursquare data, which shows the number of POIs surrounding each of our Bike Stations in Toronto 
-### We also conduct some EDA throughout the project to ensure data quality 
-### In Part 3, we join the data from Part 1 and Part 2 to make a new dataframe
-### We then conduct EDA and put that data in a SQLite3 database, this **stations_institutions.db** can be found in data folder
-### In Part 4, we use extensive EDA techniques to further check the quality of the data, also doing some cleaning as necessary 
-### We then use statsmodel to create a OLS regression analysis on our data
-### Finally, we interpret our results and also look into the possibility of turning our regression model into a classification model 
+* We will be utilizing various python libraries and modules which we will be importing throughout the project
+* In Part 1, we start with CityBikes API, we go through the documentation and call the data using the API
+* For location, we will choose Toronto, we will also use all the station's location for our Part 2's API call
+* We get station names, number of free bikes, bikes in use alongside the latitude and longitude of the station and we save it in our Pandas dataframe
+* Then we start with Foursquare and Yelp API. We choose bars, restaturant and banks as our points of interest (POI)
+* We use each station's location to get information on our POIs.
+* Yelp gives additional information like rating, review count and price. But due to API limitation, we got most number of observations from Foursquare
+* We use the Foursquare data, which shows the number of POIs surrounding each of our Bike Stations in Toronto 
+* We also conduct some EDA throughout the project to ensure data quality 
+* In Part 3, we join the data from Part 1 and Part 2 to make a new dataframe
+* We then conduct EDA and put that data in a SQLite3 database, this **stations_institutions.db** can be found in data folder
+* In Part 4, we use extensive EDA techniques to further check the quality of the data, also doing some cleaning as necessary 
+* We then use statsmodel to create a OLS regression analysis on our data
+* Finally, we interpret our results and also look into the possibility of turning our regression model into a classification model 
 
 ## Results
 * We choose Toronto city as our location, and we got 852 station names and their information using CityBikes API
@@ -48,7 +48,7 @@ With these goals and overall project in mind, we will start this journey!
 * During EDA we find that distribution for total bikes, bank count, bar count and restaurant count all are heavily skewed to the left
 * The skewed distribution indicates some stations have very high amount of bikes, as well as high amount of POIs surrounding them, which can be potentially outliers
 * We use regressional analysis along with the outliers to find the following results:
-> 1. * R-squared is 0.016, indicates a weak fit, explaining only 1.6% of the variance in total_bikes.
+> 1. R-squared is 0.016, indicates a weak fit, explaining only 1.6% of the variance in total_bikes.
 > 2. F-statistic 2.359 and p-value 0.0710 which suggests the model is not statistically significant at the 0.05 level, although it approaches significance.
 > 3. Coef of bank_count is 0.8951 with a significant p value of 0.011 means each additional bank is associated with approximately 0.895 more bikes.
 > 4. Coef of bar_count is -0.1903 and restaurant_count is 0.0459, which is not significant, indicating no meaningful impact on bike counts.
