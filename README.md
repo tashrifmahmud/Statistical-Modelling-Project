@@ -55,7 +55,7 @@ With these goals and overall project in mind, we will start this journey!
 * Overall, the model suggests a weak relationship between bike numbers and nearby POIs, with only bank_count showing a significant positive effect.
 
 ## Challenges 
-The limit on API call can be a major challenge as it can limit the quality and quantity of the data. Data with many outliers can distort the result.
+The limit on API call can be a major challenge as it can limit the quality and quantity of the data. Data with many outliers can distort the result. Normalization and outlier removal might be a necessary step towards getting the correct result.
 
 ## Future Goals
-In the future, I would like to run different regression models on different variables, and answer questions like: How does the rating and review count of extablishment affect on how many bike stations are near it?
+In the future, I would like to run different regression models on different variables, and answer questions like: How does the rating and review count of extablishment affect on how many bike stations are near it? I would also like to take the time and normalize and clean the data more before running any regression model.
