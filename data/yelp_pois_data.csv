@@ -1,0 +1,49 @@
+station_name,name,latitude,longitude,category,distance,rating,review_count
+Summerhill Ave / Maclennan Ave,Dolce Bakery,43.685924,-79.376304,restaurant,25.13882037322987,4.3,10
+Summerhill Ave / Maclennan Ave,Td Bank Financial Group,43.685924,-79.376304,bank,25.98884875581156,0.0,0
+Navy Wharf Crt / Bremner Blvd,Kibo Sushi,43.640722,-79.391051,restaurant,24.139938897443205,4.0,5
+Navy Wharf Crt / Bremner Blvd,Mr. Greek,43.640722,-79.391051,restaurant,26.719331061673714,2.4,52
+Navy Wharf Crt / Bremner Blvd,St. Louis Bar & Grill,43.640722,-79.391051,restaurant,58.38501928796163,2.4,116
+Navy Wharf Crt / Bremner Blvd,St. Louis Bar & Grill,43.640722,-79.391051,bar,58.38501928796163,2.4,116
+420 Wellington St W,Le Sélect Bistro,43.643834,-79.396649,restaurant,18.192780359903228,3.9,503
+420 Wellington St W,L’Avenue,43.643834,-79.396649,restaurant,66.79652830728223,3.5,2
+Dundas St W / Yonge St,JOEY Eaton Centre,43.656094,-79.381484,restaurant,48.995839835709525,3.7,568
+Dundas St W / Yonge St,Urban Eatery at the Eaton Centre,43.656094,-79.381484,restaurant,44.24809358145445,3.4,68
+Dundas St W / Yonge St,"The Bagel Stop, Eaton Center",43.656094,-79.381484,restaurant,9.781947004687618,2.6,7
+Dundas St W / Yonge St,Villa Madina - Eaton Centre,43.656094,-79.381484,restaurant,19.87056738835404,2.0,51
+Dundas St W / Yonge St,Swanky Burger,43.656094,-79.381484,restaurant,37.69887742205577,3.5,2
+Dundas St W / Yonge St,Mera's Diner,43.656094,-79.381484,restaurant,53.33360036647367,0.0,0
+Dundas St W / Yonge St,JOEY Eaton Centre,43.656094,-79.381484,bar,48.995839835709525,3.7,568
+Dundas St W / Yonge St,Interchange Financial,43.656094,-79.381484,bank,31.79550698367558,3.9,14
+Dundas St W / Yonge St,Red Leaf Loans,43.656094,-79.381484,bank,24.266809427418025,1.0,1
+Seaton St / Dundas St E - SMART,Umi's Kitchen,43.658777,-79.369596,restaurant,12.14096978745744,4.0,24
+Seaton St / Dundas St E - SMART,Lulu's Pizza,43.658777,-79.369596,restaurant,12.14096978745744,0.0,0
+Wellington St W / Bay St,Au Pain Dore,43.647259,-79.379878,restaurant,34.7823429419719,5.0,1
+Wellington St W / Bay St,Soup Nutsy,43.647259,-79.379878,restaurant,47.022269860143346,3.7,55
+Wellington St W / Bay St,Soho Sandwich & Cafe,43.647259,-79.379878,restaurant,20.124167476244377,4.0,1
+Wellington St W / Bay St,Fabbrica,43.647259,-79.379878,restaurant,46.359963514982766,3.2,13
+Wellington St W / Bay St,Subway,43.647259,-79.379878,restaurant,24.61754675906101,1.0,2
+Wellington St W / Bay St,La Prep,43.647259,-79.379878,restaurant,37.11061257516482,1.0,1
+Wellington St W / Bay St,Sandwich Box,43.647259,-79.379878,restaurant,62.98513250016546,2.7,3
+Wellington St W / Bay St,Walrus Pub & Beer Hall,43.647259,-79.379878,bar,35.988272121993106,3.7,87
+Wellington St W / Bay St,PBH Canada,43.647259,-79.379878,bank,49.475718197949,0.0,0
+Bay St / Scollard St,D Azur,43.672152,-79.39018,restaurant,57.02947528236027,4.0,1
+Bay St / Scollard St,D Bar,43.672152,-79.39018,bar,56.63024176673317,3.4,105
+Queen St E / Hammersmith Ave,Pizza Depot,43.671349,-79.29451,restaurant,27.42596826125568,0.0,0
+Queen St E / Hammersmith Ave,Pizzaiolo - The Pizza Maker's Pizza,43.671349,-79.29451,restaurant,36.07348479282999,3.0,5
+Queen St E / Hammersmith Ave,Mamma's Pizza,43.671349,-79.29451,restaurant,27.42596826226332,2.9,14
+Queen St E / Hammersmith Ave,Pizzaiolo - The Pizza Maker's Pizza,43.671349,-79.29451,restaurant,34.888530743749975,2.8,13
+Walnut Ave / Queen St W,Smoque N' Bones,43.645469,-79.411084,restaurant,37.7807124076213,3.8,433
+Walnut Ave / Queen St W,Noce Restaurant,43.645469,-79.411084,restaurant,29.64630904147739,3.8,89
+Walnut Ave / Queen St W,Hugs and Sarcasm,43.645469,-79.411084,restaurant,58.54870172746537,3.9,47
+Walnut Ave / Queen St W,Masala Pantry,43.645469,-79.411084,restaurant,27.223686648622152,0.0,0
+Walnut Ave / Queen St W,The Done Right Inn,43.645469,-79.411084,bar,56.45405967359328,4.3,46
+Queen St E / Pape Ave - SMART,Slowhand Pizza,43.661673,-79.337789,restaurant,32.60173121038195,4.5,16
+Queen St E / Pape Ave - SMART,Samaira's Kitchen,43.661673,-79.337789,restaurant,34.24061887623518,4.1,15
+Queen St E / Pape Ave - SMART,Amato Pizza,43.661673,-79.337789,restaurant,36.36763992117372,2.5,15
+Queen St E / Pape Ave - SMART,Scotiabank,43.661673,-79.337789,bank,10.785563948003821,1.3,4
+Eastwood Rd / Coxwell Ave,Harry's Charbroiled,43.673118,-79.318651,restaurant,41.35634377540162,3.6,81
+Eastwood Rd / Coxwell Ave,Occasions Restaurant,43.673118,-79.318651,restaurant,43.08513755136557,3.8,51
+Eastwood Rd / Coxwell Ave,BIRDIES Fried Chicken,43.673118,-79.318651,restaurant,43.5847012383977,3.8,13
+Fenwood Ht / Kingston Rd,Peking Garden Restaurant,43.72690169821676,-79.22920396582664,restaurant,36.602321642924565,2.3,13
+Fenwood Ht / Kingston Rd,Paradise Shawarma,43.72690169821676,-79.22920396582664,restaurant,36.59042188497224,3.0,4

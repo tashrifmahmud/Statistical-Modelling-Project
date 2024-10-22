@@ -1,0 +1,853 @@
+station_name,latitude,longitude,total_bikes,institution name,category,distance,bank_count,bar_count,restaurant_count,total_institutions
+Summerhill Ave / Maclennan Ave,43.685924,-79.376304,11,Dolce BakeryAshbury CleanersRosedale's FinestRosedale 1 Hour CleanersDolce BakeryRBC Royal Bank,restaurantbarbarbarbarbank,209.0,1.0,4.0,1.0,6.0
+Queen St E / Joseph Duggan Rd,43.6677628,-79.30811709999999,18,,,,,,,
+Victoria Park Ave / Danforth Ave,43.691468,-79.288619,18,Il CucinaTD Bank Financial GroupTD Canada Trust Branch and ATM,restaurantbankbank,74.0,2.0,0.0,1.0,3.0
+Navy Wharf Crt / Bremner Blvd,43.640722,-79.391051,8,Mr. GreekKibo SushiKibo SushiBlue Fin Sushi Bar,restaurantrestaurantbarbar,128.0,0.0,2.0,2.0,4.0
+420 Wellington St W,43.643834,-79.396649,15,Le Select BistroMira RestaurantLe Select BistroMira RestaurantHyde LoungeSir Gnarls BartizanTemple Bar,restaurantrestaurantbarbarbarbarbar,179.0,0.0,5.0,2.0,7.0
+Sentinel Rd / Finch Ave W,43.76073963892478,-79.5000273116394,15,,,,,,,
+Ross St / Cecil St - SMART,43.6568254,-79.3966159,17,,,,,,,
+York University Station (North),43.7741,-79.5005,15,,,,,,,
+Dundas St W / Yonge St,43.656094,-79.381484,31,"JOEY Eaton CentreJOEY Eaton CentreT&A for the HolidaysOrganic Beauty BarLewis Leslyn a Barr & SolctrDavid Oake, BarristerSchreck BarristersBasman Smith LLP Barristers & SolicitorsPekoe Kombucha BarDaniel Santoro BarristerRechtshaffen Breitman Barristersî & IsollicitorsInterchange Currency Exchange",restaurantbarbarbarbarbarbarbarbarbarbarbank,321.0,1.0,10.0,1.0,12.0
+Seaton St / Dundas St E - SMART,43.658777,-79.369596,32,Umi's KitchenUmi's Kitchen,restaurantbar,22.0,0.0,1.0,1.0,2.0
+Euclid Ave / Herrick St - SMART,43.661559,-79.413845,14,,,,,,,
+Wellesley St W / Queen's Park Cres,43.663376,-79.392125,19,,,,,,,
+Wellington St W / Bay St,43.647259,-79.379878,55,Petit Four BakeryWalrus Pub & Beer HallPetit Four BakeryDesign Exchange Barocco Espresso BarAdesso Restaurant & BarMasquerade Cafe & BarBayshore Bank & Trust Barbados CorpGoldberg Laurence BarrDewar Mathew BarrSBI Canada Bank - State Bank of India CanadaBnn Investments LtdCanadian Blood SvcCIBC Branch & ABM - Toronto Commerce CourtCIBCTD Canada Trust Branch and ATMOrigin Merchant Partners,restaurantbarbarbarbarbarbarbarbarbankbankbankbankbankbankbank,588.0,7.0,8.0,1.0,16.0
+Sunnyside Ave / The Queensway - SMART,43.6397,-79.44865,19,,,,,,,
+161 Bleecker St (South of Wellesley),43.666233,-79.373327,22,,,,,,,
+Bay St / Scollard St,43.672152,-79.39018,15,Four Seasons Hotel TorontoEdmund a Conway BarristerD|Bar,barbarbar,123.0,0.0,3.0,0.0,3.0
+Pape Ave / Gamble Ave,43.690237,-79.350119,19,,,,,,,
+Queen St E / Hammersmith Ave,43.671349,-79.29451,11,Green BasilYumei SushiMamma's PizzaPizzaioloCastro's LoungeGreen BasilYumei SushiPaint NiteMamma's PizzaBubble Ball SoccerPizzaioloBark & Fitz,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbar,441.0,0.0,8.0,4.0,12.0
+Walnut Ave / Queen St W,43.645469,-79.411084,14,NoceThe Spice TraderNoceType BooksNadegeSmoque N' BonesScotiabank,restaurantrestaurantbarbarbarbarbank,242.0,1.0,4.0,2.0,7.0
+Queen St E / Pape Ave - SMART,43.661673,-79.337789,15,Samaira kitchenIcy Spicy Fusion RestaurantThe Donut FactoryHKBCMcQueen's PubSlowhand Sourdough PizzaAvlingMcQueen's PubPeoples Barber ShopScotiabank,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbank,380.0,1.0,3.0,6.0,10.0
+Davenport Rd / Lansdowne Ave,43.671526,-79.44874,19,,,,,,,
+Eastwood Rd / Coxwell Ave,43.673118,-79.318651,19,Occasions RestaurantOccasions RestaurantH & H Dry CleanersCoffee TimeSuper Bargain,restaurantbarbarbarbar,187.0,0.0,4.0,1.0,5.0
+Fenwood Ht / Kingston Rd,43.72690169821676,-79.22920396582664,14,Vi Pei Bistro - BluffsParadise ShawarmaVi Pei Bistro - BluffsVi Pei Bistro - BluffsEssequibo Bar & Grill,restaurantrestaurantrestaurantbarbar,176.0,0.0,2.0,3.0,5.0
+Rouge Hill GO Station,43.7805505,-79.1301203,25,,,,,,,
+Lundy Ave / Étienne Brûlé Park,43.6625395,-79.5030161,14,,,,,,,
+Bremner Blvd / Rees St,43.641529,-79.386741,48,,,,,,,
+Willowdale Ave / Bishop Ave ,43.78387252467251,-79.40786809814757,17,,,,,,,
+Plaxton Dr / St Clair Ave E,43.70751755961952,-79.30252066313936,14,Masala BurgersMasala BurgersPlaxton Coffee,restaurantbarbar,63.0,0.0,2.0,1.0,3.0
+Front St W / University Ave (2),43.6452972,-79.3827914,18,Kellys LandingKellys Landing,restaurantbar,62.0,0.0,1.0,1.0,2.0
+Jarvis St / Richmond St E,43.652777,-79.372637,19,Mystic MuffinFahrenheit CoffeeMystic Muffin,restaurantbarbar,119.0,0.0,2.0,1.0,3.0
+Mortimer Ave / Coxwell Ave,43.690564,-79.326319,22,,,,,,,
+Dundas St E / River St,43.661152,-79.358505,19,,,,,,,
+St Clair Ave W / Symes Rd,43.670042134416704,-79.4789424818056,15,CIBCPioneer Energy,bankbank,57.0,2.0,0.0,0.0,2.0
+Yarmouth Rd / Christie St,43.67,-79.42083333333333,11,,,,,,,
+Dufferin Gate - SMART,43.633473,-79.425679,16,,,,,,,
+Symington Ave / Davenport Rd,43.6704403,-79.45328549999999,15,,,,,,,
+Niagara St / King St W - SMART,43.64281323408372,-79.40751415588915,24,Burro BurritoKoh Samui Thai KitchenThe Foggy DewCanadian Corps Association,restaurantrestaurantbarbar,93.0,0.0,2.0,2.0,4.0
+Madison Ave / Bloor St W,43.66701830465472,-79.4027958687172,13,Master's Buffeteria Inc,restaurant,28.0,0.0,0.0,1.0,1.0
+Princes' Blvd / Nunavut Rd,43.6333523484014,-79.41436313073005,19,,,,,,,
+Kingston Rd / Scarborough Golf Club Rd,43.74531103700256,-79.20970650787817,13,,,,,,,
+Harbord St / Grace St (Bickford Park),43.65995363518053,-79.41787388888551,22,Sweetie PieSweetie Pie,restaurantbar,82.0,0.0,1.0,1.0,2.0
+Alvin Ave / St Clair Ave E,43.68871,-79.39264,19,Mermaid Fish and Grill HouseMermaid Fish and Grill HouseBooster JuiceGonoe Modern Sushi & BarKaizen SushiMeridian Credit Union ATMNational Bank Financial,restaurantbarbarbarbarbankbank,277.0,2.0,4.0,1.0,7.0
+Chorley Park - SMART,43.6856,-79.3718,17,,,,,,,
+Martin Goodman Trail (Marilyn Bell Park),43.6314,-79.4304,29,,,,,,,
+Yonge St / Davisville Ave,43.6975969,-79.39654,14,Second Cup Coffee CoThai ExpressMr. SubJjs Cafe & DeliSecond Cup Coffee CoThai ExpressMr. SubJjs Cafe & DeliHomEquity BankCHIP Reverse Mortgage | HomEquity Bank,restaurantrestaurantrestaurantrestaurantbarbarbarbarbankbank,397.0,2.0,4.0,4.0,10.0
+Berry Rd / Bell Manor Dr,43.63732,-79.489083,19,Busy Bee Bargains,bar,49.0,0.0,1.0,0.0,1.0
+Adelaide St W / York St ,43.6491919790139,-79.38363237427446,18,SubwayExchange Tower Food CourtButter Chicken RotiMcNeil John S QC Barrister & SolictorBarnes CommunicationsRBC Royal BankPeople's Trust CoLaurentian Bank of Canada,restaurantrestaurantrestaurantbarbarbankbankbank,261.0,3.0,2.0,3.0,8.0
+Lake Shore Blvd W / Ontario Dr,43.630254,-79.420317,34,,,,,,,
+St Clarens Ave / Shirley St,43.6486599,-79.4376413,14,,,,,,,
+Wolseley St / Augusta Ave,43.6484201,-79.40051919999999,27,Saku SushiBarChefSaku SushiA la Mode,restaurantbarbarbar,151.0,0.0,3.0,1.0,4.0
+Cumberland St / Bay St -  SMART,43.6704537,-79.39014,8,Paramount Fine FoodsDavid Rocco Bar AperitivoParamount Fine FoodsBrothersMatthew Jeffery Barrister and SolicitorBarry Brown MSW Family Mediation Inc,restaurantbarbarbarbarbar,158.0,0.0,5.0,1.0,6.0
+Overlea Blvd / Thorncliffe Park Dr,43.707555968595464,-79.34272024477463,18,"RBC Royal BankAl-Bargash, Saleh DdsRBC Royal Bank",barbarbank,85.0,1.0,2.0,0.0,3.0
+Kempford Blvd / Yonge St,43.776857235099826,-79.4151161430729,19,Angus Pho HouseMy Sushi,restaurantbar,92.0,0.0,1.0,1.0,2.0
+Bay St / Albert St,43.653264,-79.382458,63,Eggspectation Bell Trinity SquareEggspectation Bell Trinity SquareThe SupermarketCIBC,restaurantbarbarbank,161.0,1.0,2.0,1.0,4.0
+High Park Outdoor Pool,43.650154,-79.464934,25,,,,,,,
+800 Fleet St (South),43.63670985212708,-79.40880517790985,30,,,,,,,
+McCowan Rd / Trudelle St,43.74033901575211,-79.23935319629516,18,,,,,,,
+Queens Quay W / Dan Leckie Way,43.636533,-79.395854,25,,,,,,,
+Roehampton Ave / Mount Pleasant Rd,43.70942,-79.39139,17,Pizzaiola,restaurant,44.0,0.0,0.0,1.0,1.0
+Niagara St / Tecumseth St,43.641389,-79.404444,15,,,,,,,
+Uno Dr / The Queensway,43.62649329992186,-79.50358167641535,13,No Frills,bar,29.0,0.0,1.0,0.0,1.0
+Oakdale Community Centre,43.74751496038769,-79.5132569853195,13,,,,,,,
+Trinity St /Front St E,43.651318,-79.36023,19,,,,,,,
+Summerhill Subway Station,43.681944,-79.390556,11,Sash Restaurant & Wine BarSash Restaurant & Wine Bar,restaurantbar,68.0,0.0,1.0,1.0,2.0
+Sheppard Ave W / Chesswood Dr,43.755583971122874,-79.47446032684479,19,Kabbalah Bnei Baruch Toronto,bar,35.0,0.0,1.0,0.0,1.0
+Bellwoods Ave / Treford Pl - SMART,43.65246,-79.413528,19,,,,,,,
+Swansea Community Centre,43.6438036,-79.4770327,14,,,,,,,
+The Queensway / High St,43.630874,-79.482407,21,TD Bank Financial GroupTD Canada Trust Branch and ATM,bankbank,72.0,2.0,0.0,0.0,2.0
+Esther Shiner Stadium,43.7774374,-79.4447096,22,,,,,,,
+Rogers Rd / Watt Ave,43.68233679999999,-79.4680594,14,Pizza PizzaBanaboia RestaurantPizza PizzaBanaboia RestaurantRBC Royal Bank ATM,restaurantrestaurantbarbarbank,200.0,1.0,2.0,2.0,5.0
+College Park - Gerrard Entrance,43.658938,-79.383518,24,Hailed Coffee,bar,25.0,0.0,1.0,0.0,1.0
+Carlton St / Parliament St,43.664524,-79.36793,26,The Pear TreeThe Pear TreeDaniel et Daniel Catering & EventsThe ArkMaya Bay Thai Snack BarLjs Khasos Restaurant + BarParadise Bar and RestaurantParkway Restaurant & BarTD Bank Financial GroupCIBCTD Canada Trust ATMTD Canada Trust Branch and ATM,restaurantbarbarbarbarbarbarbarbankbankbankbank,435.0,4.0,7.0,1.0,12.0
+Avenue Rd / Oxton Ave ,43.69711160305226,-79.40537298227844,14,,,,,,,
+Spadina Rd / Austin Terrace,43.67883,-79.408723,16,,,,,,,
+Hanna Ave / Snooker St,43.639547,-79.420022,14,EQ3 Toronto - HannaRBC Royal BankBarcelona Tavern TorontoRBC Royal Bank,barbarbarbank,133.0,1.0,3.0,0.0,4.0
+Queen St W / John St,43.650077,-79.391291,23,Omg Oh My GyroMe Va Me Kitchen ExpressMuch Music Video AwardsMad One BarbershopEm Beauty BarBeautifully BarePresident's Choice Financial ATM,restaurantrestaurantbarbarbarbarbank,263.0,1.0,4.0,2.0,7.0
+Glen Edyth Dr / Davenport Rd,43.677778,-79.405556,14,,,,,,,
+Eglinton Ave W / Gilbert Ave,43.69254716689966,-79.46332759272917,18,,,,,,,
+St. Joseph St / Bay St - SMART,43.6658804,-79.38761010000002,20,Cups CafeGreen Grotto Bay Inc5th ElementtMullins Irish PubSage Restaurant & BarLily Sushi BarScotiabank,restaurantrestaurantrestaurantbarbarbarbank,309.0,1.0,3.0,3.0,7.0
+Front St E / Cherry St,43.652686,-79.358395,15,,,,,,,
+Jarvis St / Isabella St,43.668991,-79.379385,23,Panago Pizza Inc,restaurant,40.0,0.0,0.0,1.0,1.0
+Jane St / Yorkwoods Gt,43.7503016975738,-79.51577557434386,15,,,,,,,
+Bay St / College St (East Side),43.660439,-79.385525,28,The Pancake PalaceBagel Stop College ParkPastucci's Canada IncPizzaioloDeer Garden SignaturesNeo Coffee Bar Bay X CollegeBooster JuiceJoe's Barber ShopNeo Coffee Bar Bay X CollegeCreate Cord Blood BankBMO Bank of MontrealCredit-Bail Cibc LimitéeMeridian Credit UnionCIBCTD Canada Trust ATM,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbankbankbankbankbankbank,563.0,6.0,3.0,6.0,15.0
+Richmond St W / York St,43.650745,-79.383633,17,"Ramen IsshinOxford ResidentialBistro on TwoGrandma Loves YouThe Good Son PizzaHibiscus CafeReynaCherry Street Bar-B-QueShort & Sweet BakeshopLosCo VeganKaufman Allan Barrister & SolicitorStephen T. Lyon Barrister & SolicitorCherry Street Bar-B-QueFrank's Barber ShopMaierovits, Martin BarristerBasman Smith Llp Barristers & Solicitors Fisher, Kevin WKerkmann Robert W Barr & SolctrBasman Smith Llp Barristers & Solicitors",restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbar,695.0,0.0,8.0,10.0,18.0
+Roncesvalles Ave / Marmaduke St,43.650492,-79.450842,17,Cider HouseReunion Island Coffee BarCider HouseCafe Tibet Bar and GrillBlush Beauty Bar and EstheticsGate 403 Bar & GrillTD Bank Financial GroupTD Canada Trust Branch and ATM,restaurantbarbarbarbarbarbankbank,259.0,2.0,5.0,1.0,8.0
+Bay St / Bloor St W (West Side),43.669244,-79.3894,19,BirrotecaBenefit Cosmetics Brow BarJames FH Barnes AppraisalsTd WaterhouseTD Bank Financial GroupTD Canada Trust ATMTD Canada Trust Branch and ATM,barbarbarbankbankbankbank,184.0,4.0,3.0,0.0,7.0
+Queen St W / Spadina Ave,43.649147,-79.395504,10,Bqm Diner IncBuonoA&W RestaurantChick-Fil-AThe RivoliHorseshoe TavernPaint NiteEmpire Barber ShopXanders Bar & Grill,restaurantrestaurantrestaurantrestaurantbarbarbarbarbar,283.0,0.0,5.0,4.0,9.0
+Davenport Rd / Avenue Rd,43.674991,-79.396273,9,Joso'sBe Thai RestaurantJoso'sBe NourishedEmerald City Beauty BarTD Canada Trust ATMTD Canada Trust Branch and ATM,restaurantrestaurantbarbarbarbankbank,203.0,2.0,3.0,2.0,7.0
+King St W / Jameson Ave - SMART,43.63735795888104,-79.43617975886079,12,,,,,,,
+Queen's Park Cres W / Hoskin Ave,43.665221,-79.394009,22,,,,,,,
+Edward St / Yonge St,43.656729,-79.382736,23,Kernels PopcornEaton Centre Top PatioSt. Louis Bar and Grill,restaurantrestaurantbar,119.0,0.0,1.0,2.0,3.0
+Queen's Park / Bloor St W,43.668456,-79.393899,21,Sam James Coffee BarSam James Coffee Bar,restaurantbar,46.0,0.0,1.0,1.0,2.0
+Parkside Dr / Bloor St W - SMART,43.654501,-79.460053,11,Lunch BoxThe Mugshot TavernLunch Box,restaurantbarbar,123.0,0.0,2.0,1.0,3.0
+Shaw St / King St W,43.6412561641921,-79.41502994047545,14,Kings Market Convenience & Food MartStarbucksMeridian Credit Union ATM,restaurantbarbank,68.0,1.0,1.0,1.0,3.0
+Havelock St / Dewson St,43.6554793,-79.4302462,14,,,,,,,
+Kilgour Rd / Rumsey Rd,43.718039,-79.371914,17,,,,,,,
+Spadina Ave / Blue Jays Way,43.641705,-79.393295,30,,,,,,,
+Glendonwynne Rd / Bloor St W,43.65182,-79.47421,17,Souvlaki HutSouvlaki HutNail Story,restaurantbarbar,106.0,0.0,2.0,1.0,3.0
+Superior Ave / Lake Shore Blvd W,43.6146692,-79.4873148,15,,,,,,,
+2700 Eglinton Ave W,43.69074600637147,-79.47820143344333,40,,,,,,,
+Wendover Rd / Bloor St W (Green P),43.6492,-79.50601999999999,14,,,,,,,
+75 Holly St,43.7063279,-79.3962499,19,,,,,,,
+Starspray Blvd / Lawrence Ave E,43.788525214554085,-79.1231844760227,18,,,,,,,
+The Pond Rd / Shoreham Dr,43.772445,-79.511912,15,,,,,,,
+Adelaide St W / Yonge St,43.65038002325664,-79.3787277120385,19,Bistro 1858Sud FornoTouchPizzaioloTD Bank Financial GroupHSBC of CanadaTD Canada Trust ATMTD Canada Trust Branch and ATM,restaurantrestaurantrestaurantrestaurantbankbankbankbank,274.0,4.0,0.0,4.0,8.0
+Lynn Williams St / East Liberty St,43.638925,-79.4168659,14,Maurya East Indian Cuisine - Liberty VillageGolden Phoebe Tree IncLewsi Haus,restaurantrestaurantbar,101.0,0.0,1.0,2.0,3.0
+King St E / Berkeley St,43.651885,-79.3649,31,Rooster Coffee HouseRBC Royal BankRBC Royal Bank,barbarbank,126.0,1.0,2.0,0.0,3.0
+Royal York Rd / Mimico Ave,43.612063,-79.496573,18,,,,,,,
+King St W / Charlotte St,43.645572,-79.39399,21,Belly Buster SubmarinesAroma Espresso BarBar HopBulk BarnAroma Espresso BarBarNet TVRBC Royal Bank,restaurantrestaurantbarbarbarbarbank,212.0,1.0,4.0,2.0,7.0
+Russell Hill Rd / St Clair Ave W,43.685569,-79.408019,19,,,,,,,
+Harbord St / Clinton St,43.660414,-79.415646,13,Sam James Coffee BarMi Hermano Barbershop,barbar,61.0,0.0,2.0,0.0,2.0
+Jameson Ave / Queen St W,43.63985,-79.43703,25,Tashi Delek Cafe,bar,48.0,0.0,1.0,0.0,1.0
+High Park - Grenadier Cafe,43.645599,-79.4657123,10,Grenadier Restaurant parkingGrenadier Restaurant parking,restaurantbar,54.0,0.0,1.0,1.0,2.0
+High Park Amphitheatre,43.646251,-79.46472,20,,,,,,,
+Gothic Ave / Quebec Ave,43.65389,-79.4675,18,,,,,,,
+111 Bond St (North of Dundas St E)  - SMART,43.656927,-79.378497,14,The HummussiahLocalista Food Truck,restaurantrestaurant,71.0,0.0,0.0,2.0,2.0
+Wright Ave / Sorauren Ave - SMART,43.646677,-79.442741,18,,,,,,,
+College St / Borden St,43.6571,-79.4056,11,The Hogtown VeganVoodoo ChildCloak & Dagger Irish PubVoodoo ChildMontreal Bar & GrillKing's Landing Barber Shoppe,restaurantrestaurantbarbarbarbar,82.0,0.0,4.0,2.0,6.0
+Coxwell Ave / Plains Rd,43.69595,-79.328535,19,Knuckle SandwichThai to GoKnuckle SandwichLickadee Split Ice Cream ShoppeStarbucksThai to Go,restaurantrestaurantbarbarbarbar,208.0,0.0,4.0,2.0,6.0
+Lower Simcoe St / Bremner Blvd,43.64283,-79.38409,15,SOCO Kitchen + BarSOCO Kitchen + BarChar No. 5Delta Hotels by Marriott Toronto,restaurantbarbarbar,137.0,0.0,3.0,1.0,4.0
+Glen Long Community Centre,43.70820992643782,-79.45627808717194,14,,,,,,,
+Taddle Creek Park,43.66986,-79.398443,15,,,,,,,
+Bloor St E / Huntley St - SMART,43.671535,-79.379173,20,Las PatronasKibo Sushi HouseLas PatronasYK Beauty Bar,restaurantbarbarbar,179.0,0.0,3.0,1.0,4.0
+Gerrard St E / Leslie St,43.669813,-79.3335,23,,,,,,,
+Eglinton Ave W / Prospect Cemetery,43.69415,-79.45782580000001,19,Brazilian Choice,restaurant,10.0,0.0,0.0,1.0,1.0
+Maud St / Adelaide St W - SMART,43.6460145694434,-79.39960497726345,15,The Local Barber & Co,bar,36.0,0.0,1.0,0.0,1.0
+Simcoe St / Michael Sweet Ave,43.652327224103,-79.3882538196087,18,Le Muffin Plus,restaurant,27.0,0.0,0.0,1.0,1.0
+High Park - West Rd,43.651922,-79.465693,22,,,,,,,
+King St W / Jordan St,43.648928,-79.378623,9,Royal EateryArtisan Bakery and FoodsHenri's Bar at One King West hotelBistroSecond Cup Café featuring Pinkberry Frozen YogurtOne King West Hotel . ResidenceStarbucksCollins Barrow Toronto LLPDevin Bains Professional Corp BarristersTraub Moldaver BarristersHenri's Bar at One King West hotelBall Vivienne Barr & SolctrTeller's Bar and LoungeRBCCibc Private Wealth ManagementTD Bank Financial GroupBMO Bank of MontrealRBC Royal Bank,restaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbankbankbankbankbank,703.0,5.0,8.0,5.0,18.0
+Morningside Park (Highland Creek Trail),43.779353,-79.193023,23,,,,,,,
+Ellesmere Rd / Markham Rd,43.77682938751077,-79.2305003612381,15,Pizza NovaPizza Nova,restaurantbar,98.0,0.0,1.0,1.0,2.0
+King St W / Cowan Ave - SMART,43.637922,-79.431734,16,Domino's PizzaBatibotDomino's PizzaHappy Coffee & WinePharmacy Bar,restaurantrestaurantbarbarbar,117.0,0.0,3.0,2.0,5.0
+Trethewey Dr / Black Creek Dr,43.695498400279796,-79.48809394482672,14,Planet Pizza & WingsTim Hortons,restaurantbar,52.0,0.0,1.0,1.0,2.0
+Adelaide St W / Bay St,43.650152,-79.379856,22,Baking MemoriesAlex ZommerCafe 1808 CanadaAmara Wall SytemsPie SquaredSalad DaysMarche RestaurantMean BaoMucho BurritoVegbakeryThe Rabbit HoleArterra Wines Canada IncBarefoot LiliesBarriebrooker.ComBartender & Mixology Training - Itrain TorontoBartium - Low-Cost Website Design in TorontoPari Lash & Beauty BarDirk's Bar and GrillBarney River Investments,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbar,537.0,0.0,9.0,10.0,19.0
+Bathurst St/Queens Quay(Billy Bishop Airport),43.635492,-79.398253,33,,,,,,,
+Brahms Ave / Finch Ave E,43.79236326442992,-79.35836318028717,19,,,,,,,
+King St W / Crawford St,43.6417852,-79.4131148,23,,,,,,,
+Isabella St / Church St,43.66834,-79.38235,27,Church Street EspressoPiedmont Coffee BarChurch Street EspressoPrayosha Threading & Wax BarBarks and Rec Downtown,restaurantbarbarbarbar,200.0,0.0,4.0,1.0,5.0
+Durie St / Dundas St W,43.665523,-79.484892,23,,,,,,,
+Trent Ave / Danforth Ave,43.689293,-79.295895,23,Double Sushi Japanese RestaurantPizza PizzaTwo Brothers ShawarmaShirley RestaurantDouble Sushi Japanese RestaurantPizza PizzaAfghan KebabTwo Brothers ShawarmaDennis Barber ShopBMO Bank of Montreal,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbank,321.0,1.0,5.0,4.0,10.0
+Marilyn Bell Park Tennis Court,43.633537,-79.437461,26,,,,,,,
+Cosburn Ave / Cedarvale Ave,43.697139,-79.31469,13,,,,,,,
+Joe Shuster Way / King St W ,43.64039672322004,-79.4237424131447,17,McDonald'sThe Suburban EmbassyGIOIA Beauty Bar & Spa,restaurantbarbar,72.0,0.0,2.0,1.0,3.0
+Sherbourne St / Wellesley St E,43.6673,-79.374,30,,,,,,,
+Lower Jarvis St / The Esplanade,43.6478206,-79.3704721,14,Pizza HutTim Hortons,restaurantbar,36.0,0.0,1.0,1.0,2.0
+Mallon Ave / Jones Ave -SMART,43.66587,-79.33443,15,,,,,,,
+135 Queens Wharf Rd - SMART,43.6399714,-79.39940399999999,16,,,,,,,
+15 Price St ,43.6799477790745,-79.38994813684005,10,TerroniTerroniBar Centrale di Terroni,restaurantbarbar,147.0,0.0,2.0,1.0,3.0
+Jarvis St / Dundas St E,43.657266,-79.374756,25,Casey's Outdoor PatioStarbucksHilton Garden Inn Toronto City CentreTD Bank Financial GroupTD Canada Trust ATM,restaurantbarbarbankbank,202.0,2.0,2.0,1.0,5.0
+Orde St / McCaul St,43.6580442,-79.3927404,15,,,,,,,
+University Ave / King St W - SMART,43.6477785,-79.3847928,22,"Sam James Coffee BarSam James Coffee BarStockwood Spies Barristers & SolicitorsBaring Asset Management, Representative OfficeBdc-Business Development Bank of CanadaZero Canada",restaurantbarbarbarbankbank,204.0,2.0,3.0,1.0,6.0
+Islington Ave / Finch Ave W,43.74445257991756,-79.56824985721664,12,,,,,,,
+The Queensway at South Kingsway,43.63632,-79.47307,20,,,,,,,
+Roehampton Ave / Bayview Ave,43.711751,-79.378615,27,Tosto Quickfire Pizza PastaTostoTosto Quickfire Pizza PastaThe Beer StoreTosto,restaurantrestaurantbarbarbar,158.0,0.0,3.0,2.0,5.0
+Phoebe St / Spadina Ave,43.650033,-79.396555,32,"Hotel OchoTammy Law, Barrister and Solicitor",barbar,46.0,0.0,2.0,0.0,2.0
+Yonge St / Lawrence Ave E,43.7254665,-79.40115449999999,21,,,,,,,
+Bay St / Bloor St W (East Side),43.66943,-79.38915,14,Il Gran CaffèBirrotecaEataly TorontoBenefit Cosmetics Brow BarDrBarbara CaffreyTimothy's Espresso BarTD Bank Financial GroupCanadian Blood SvcTd WaterhouseTD Canada Trust Branch and ATM,restaurantbarbarbarbarbarbankbankbankbank,381.0,4.0,5.0,1.0,10.0
+Symington Ave / Dupont St,43.665538,-79.451263,15,BMO Bank of Montreal,bank,44.0,1.0,0.0,0.0,1.0
+St. Clair Ave W / Osler St,43.6739269797493,-79.46068479021301,10,Pho XuaDanaag Vietnamese RestaurantPho XuaUpscale Beauty SalonDanaag Vietnamese RestaurantHuong Viet Restaurant,restaurantrestaurantbarbarbarbar,233.0,0.0,4.0,2.0,6.0
+Bridgman Ave / Bathurst St,43.674444,-79.414722,15,Back Alley Barbell,bar,14.0,0.0,1.0,0.0,1.0
+Davenport Rd / Bedford Rd,43.674446,-79.398331,14,MIMI ChineseMIMI ChineseParcKX Coffee & Wine Bar,restaurantbarbarbar,94.0,0.0,3.0,1.0,4.0
+Queen St W / Bay St (City Hall),43.6517925,-79.38269509999999,23,Shops at Sheraton Food CourtBlue Hot Dog TruckKibo Sushi HouseTeppanyaki GrillDruxy's Famous Deli SandwichesSweet Rosie'sPatties ExpressFreshiiHibberd Catherine Barrister & SolicitorBlitz Facial Bar IncKenneth Cohen Barristers & SolicitorsCanadianforex LtdWoodbridge Co Ltd,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbankbank,482.0,2.0,3.0,8.0,13.0
+University Ave / College St (East),43.65995,-79.38964,19,StarbucksQueen's Park Subway Station,barbar,84.0,0.0,2.0,0.0,2.0
+York University (Glendon Campus) - SMART,43.727365488246306,-79.3814254607724,15,,,,,,,
+Simcoe St / Elm St,43.656038841714505,-79.38970387738495,10,ScotiabankLocalcoin Bitcoin ATM - Hasty Market,bankbank,81.0,2.0,0.0,0.0,2.0
+Spadina Ave / Harbord St - SMART,43.6629228,-79.4018451,34,,,,,,,
+Bayview Ave / Finch Recreational Trail,43.789068698639504,-79.39315096004944,19,,,,,,,
+Keele St / Lloyd Ave,43.67115532642577,-79.46701597756929,14,Country Style,bar,34.0,0.0,1.0,0.0,1.0
+Viewmount Park,43.70735572654095,-79.43723072209013,15,,,,,,,
+Housey St / Dan Leckie Way,43.63811,-79.397877,26,,,,,,,
+Ontario St / Adelaide St E -SMART,43.6535052,-79.3667689,17,Per Se CateringJ D BarnesMckenna Sean Rzcd Law Barrs & Solctrs,restaurantbarbar,84.0,0.0,2.0,1.0,3.0
+Clendenan Ave / Rowland St - SMART,43.66073,-79.47149,20,,,,,,,
+Slan Ave / Scarborough Golf Club Rd,43.77327261711258,-79.21971485277862,13,,,,,,,
+Southwood Dr / Kingston Rd - SMART,43.678685,-79.297974,12,Seaspray RestaurantBeach Food MartTim HortonsSeaspray RestaurantBeach Food Mart,restaurantrestaurantbarbarbar,152.0,0.0,3.0,2.0,5.0
+85 Lee Ave,43.6700692,-79.2971326,9,,,,,,,
+King St W / Portland St - SMART,43.644395,-79.40065430000001,31,Forno CulturaWVRSTLocals OnlyRuby SohoForno CulturaBucaDashaUniq LifestylesLaissez FaireThe HartlyInnocenti Restaurant & Bar,restaurantbarbarbarbarbarbarbarbarbarbar,324.0,0.0,10.0,1.0,11.0
+Toronto Eaton Centre (Yonge St) - SMART,43.655431,-79.380653,20,Ruby Thai Kitchen & Shanghai360Cuiscene RestaurantFast Fresh FoodsUrban EateryPopeye's Louisiana KitchenSbarroVilla MadinaTeryaki ExperienceThe 3 BrewersDAVIDsTEATD Bank Financial Group,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbank,336.0,1.0,2.0,8.0,11.0
+Sussex Ave / St George St,43.665304278965365,-79.39938263802871,14,Innis CafeInnis Cafe,restaurantbar,40.0,0.0,1.0,1.0,2.0
+Baldwin St / Henry St,43.6560758,-79.393259,14,Cafe la GaffeLight CafeKoh Lipe Thai KitchenBodega Restaurant IncKoh Lipe Thai KitchenCafe la GaffeCharidiseBodega Restaurant IncLight CafeArctic BitesTan CoffeeRonin IzakayaValens RestaurantSushi Tanoshii,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbarbar,414.0,0.0,10.0,4.0,14.0
+Donlands Subway Station,43.681114,-79.3373885,15,Donlands Variety,bar,49.0,0.0,1.0,0.0,1.0
+York St / Lake Shore Blvd W,43.641952,-79.380723,19,Fairy Godmother PatisserieBoros HeightsSouth St. BurgerCorksSport Chek Maple Leaf SquareReal Sports Bar & GrillTD Bank Financial GroupBank of AmericaTD Canada Trust Branch and ATMTD Canada Trust ATM,restaurantrestaurantrestaurantbarbarbarbankbankbankbank,385.0,4.0,3.0,3.0,10.0
+Weston Rd / Sheppard Ave W,43.73262849415089,-79.5381993243286,14,,,,,,,
+Spadina Ave / Willcocks St,43.6616667,-79.40138888888889,13,,,,,,,
+Leslie Subway Station,43.77037892370793,-79.36702734195678,14,,,,,,,
+Pharmacy Ave / Teesdale Pl,43.697356080874876,-79.28528711019696,19,,,,,,,
+Lindylou Rd / Lanyard Rd,43.74845421407306,-79.5504039969242,14,,,,,,,
+Blake St / Boultbee Ave,43.672453,-79.338259,15,,,,,,,
+Granby St / Church St - SMART,43.6614605,-79.37894570000002,23,Studio Restaurant TavernNARU Izakaya Toronto 原・ナル居酒屋99 Cent SushiAssembli PizzaSinjeon TopokkiAlexandrosNARU Izakaya Toronto 原・ナル居酒屋Dr. Merkley Barry,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbar,220.0,0.0,2.0,6.0,8.0
+Vaughan Rd /Wychwood Ave,43.6882821,-79.4253856,18,,,,,,,
+Spadina Ave / Sullivan St,43.65082785552666,-79.39698099821702,23,Ali My RestaurantGdous Juicy Chicken HouseMandarin CafeDark Horse Espresso BarSeefu Hair SalonScott Jennifer Barr & Solctr,restaurantrestaurantrestaurantbarbarbar,189.0,0.0,3.0,3.0,6.0
+Jarvis St / Carlton St,43.66207,-79.37617,15,,,,,,,
+Mallaby Park ,43.706191092397106,-79.53262795581969,15,,,,,,,
+Bathurst St / Lennox St,43.663808,-79.410491,18,,,,,,,
+1303 Yonge St - SMART,43.6846177,-79.39245919999999,15,B & B Fine FoodsAsianTorontoEscorts,restaurantbar,33.0,0.0,1.0,1.0,2.0
+Palmerston Ave / Vermont Ave,43.671389,-79.416389,15,,,,,,,
+Westmoreland Ave / Fernbank Ave,43.665327,-79.43235,18,,,,,,,
+York St / Queens Quay W,43.640132,-79.380464,56,Freshii,restaurant,17.0,0.0,0.0,1.0,1.0
+Gamble Ave / Broadview Ave,43.689211,-79.35438,23,Golden PizzaGolden Pizza,restaurantbar,82.0,0.0,1.0,1.0,2.0
+Howard Park Ave / Dundas St W - SMART,43.6521,-79.4486,12,Cafe Bar GraciosaBar Graciosense,barbar,82.0,0.0,2.0,0.0,2.0
+St Columba Pl / St Clair Ave E,43.70567,-79.310554,17,,,,,,,
+Bloor St W / Huron St,43.667023,-79.401805,27,,,,,,,
+Bloor St W / Gladstone Ave - SMART,43.6602021,-79.4342726,11,Jerk KingA&W RestaurantPopeye's Louisiana KitchenTim HortonsJerk KingA&W RestaurantAnthony's Hair Salon & Barber ShopCity Bargain,restaurantrestaurantrestaurantbarbarbarbarbar,286.0,0.0,5.0,3.0,8.0
+Greenwood Ave / Sammon Ave,43.68698672516659,-79.33478198280334,11,,,,,,,
+High Park Ave / Dundas St W,43.6653032,-79.4701178,13,Solero Mediterranean BakeryDomino's PizzaThe Friendly ThaiPadaria TorontoUB Social Cafe & General StoreGabby'sPaint NiteBarks & Whiskers,restaurantrestaurantrestaurantrestaurantrestaurantbarbarbar,263.0,0.0,3.0,5.0,8.0
+Sunnybrook Park,43.720233,-79.362092,26,,,,,,,
+Danforth Ave / Ellerbeck St,43.677076,-79.35667,15,Toast to the HolidaysBare Minerals,barbar,70.0,0.0,2.0,0.0,2.0
+1612 Danforth Ave ,43.68370788065334,-79.32262453633884,12,Sunset GrillTKO's the Sports PubSunset GrillA&W RestaurantAlterna Bank,restaurantbarbarbarbank,211.0,1.0,3.0,1.0,5.0
+Finch Ave W / Wilmington Ave,43.77060244428048,-79.45997589178772,18,,,,,,,
+Charles St E / Jarvis St - SMART,43.669604,-79.381171,18,,,,,,,
+Queens Quay / Yonge St,43.641646,-79.375308,47,Alexandro's World Famous GyrosOyshi SushiAlexandro's World Famous GyrosOyshi Sushi,restaurantrestaurantbarbar,152.0,0.0,2.0,2.0,4.0
+HTO Park West,43.63737145931921,-79.38976958703309,30,,,,,,,
+University of Toronto Scarborough,43.7842419,-79.1849889,16,,,,,,,
+King St W / Douro St,43.640885,-79.416379,10,King Street W Market,restaurant,15.0,0.0,0.0,1.0,1.0
+Lower Jarvis St / Queens Quay E,43.64422,-79.36927,18,President's Choice Financial,bank,37.0,1.0,0.0,0.0,1.0
+Keele St / Catford Rd,43.75919330632997,-79.49001046850891,15,Scotiabank,bank,48.0,1.0,0.0,0.0,1.0
+Brick Works,43.683884,-79.36647,18,,,,,,,
+Danforth Ave / Dewhurst Blvd,43.680207,-79.339243,15,Danforth Pizza HouseSquare-Boy Drive-InDanforth Pizza HouseSquare-Boy Drive-InDesai Bargain,restaurantrestaurantbarbarbar,203.0,0.0,3.0,2.0,5.0
+Kingston Rd / Glen Everest Rd,43.697490048103,-79.25655146462776,15,,,,,,,
+Queens Quay E / Lower Jarvis St ,43.64392767366328,-79.3687301736982,23,,,,,,,
+Vaughan Rd / Oakwood Ave,43.6926825,-79.441042,19,The Red Scale BakeshopCrystal Sea Food RestaurantChurasqueria-La Fiesta C.Pita IkramOne Love Sport BarTony's Sport Snack BarFive Points Bar and GrillCrystal Sea Food RestaurantChurasqueria-La Fiesta C.Pita IkramTaste of ShawarmaGreens Restaurant & BarPiazza Sports Bar & CafeTugas Sports Bar,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbarbar,402.0,0.0,10.0,4.0,14.0
+Rushton Rd / St Clair Ave W,43.68114,-79.4277,11,Pain PerduThe RushtonBar ApePain PerduThe RushtonSalsa on St ClairSD Auto Centre & Gas Bar Ltd,restaurantrestaurantbarbarbarbarbar,283.0,0.0,5.0,2.0,7.0
+Queen St E / Alton Av,43.663912,-79.327987,19,Sweet Bliss Baking CoLloyd's on QueenBetty's EastSweet Bliss Baking Co,restaurantbarbarbar,123.0,0.0,3.0,1.0,4.0
+Torresdale Ave / Antibes Dr,43.77953,-79.45233,12,,,,,,,
+Tangiers Rd / Finch Ave W,43.76376964130183,-79.48809242593383,15,Fox & Fiddle-FinchMiami Restaurant & BarPinq Beauty Bar,barbarbar,101.0,0.0,3.0,0.0,3.0
+Adelaide St W / Bay St (South),43.65011637593798,-79.37953068860327,15,Baking MemoriesAlex ZommerCafe 1808 CanadaAmara Wall SytemsVegbakeryCakevana BakeshopIcing DesignsPeony Cake HouseSweet MelissaMarche RestaurantThe Rabbit HoleArterra Wines Canada IncBarefoot LiliesBarriebrooker.ComBartender & Mixology Training - Itrain TorontoBartium - Low-Cost Website Design in TorontoPari Lash & Beauty BarDirk's Bar and GrillTruefitt & Hill Barber ShopBarney River Investments,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbarbar,363.0,0.0,10.0,10.0,20.0
+Fort York Blvd / Garrison Rd,43.637381,-79.406112,15,Scotiabank,bank,25.0,1.0,0.0,0.0,1.0
+Niagara St / Queen St W ,43.64572868466845,-79.40990680181771,11,Loaded PierogiLoaded PierogiThe Done Right InnSmart Bar,restaurantbarbarbar,128.0,0.0,3.0,1.0,4.0
+Cariboo Ave / Railpath Trail,43.66666667,-79.45833333333334,17,,,,,,,
+Davisville Ave / Pailton Cres,43.69933,-79.39199,19,,,,,,,
+Yonge St / St. Clair Ave,43.68850460000001,-79.39416076812287,19,Kwan Dim SumBlack SwanKwan Dim SumSecond CupCharity Juice BarGreenhouse Juice CoMichel's BaguetteThe Bowl Korean FoodSushi GenTTC StopRosen Avra Barrister & Family Law MediatorTD Bank Financial GroupEquitable Bank Corporate OfficeTD Canada Trust - St Clair Ave EGeorge Koumbridis - TD Merchant SolutionsTD Canada Trust ATMTD Canada Trust Branch and ATMPresident's Choice Financial ATM,restaurantbarbarbarbarbarbarbarbarbarbarbankbankbankbankbankbankbank,617.0,7.0,10.0,1.0,18.0
+Simcoe St / Dundas St W,43.655103,-79.389295,20,Avenue Cafe & BistroO'brien Robert a Barr & SolctrBalaban Rebecca G BarrCIBC,restaurantbarbarbank,129.0,1.0,2.0,1.0,4.0
+Front St W / Simcoe St,43.6442,-79.38702,27,Crazi Fries Chip TruckHot Dog ExpressThe Pint Public House,restaurantrestaurantbar,110.0,0.0,1.0,2.0,3.0
+Mill St / Tannery Rd,43.652219,-79.354455,27,,,,,,,
+Dundas St E / George St,43.6574766,-79.373446,25,Trap Juice BarTD Canada Trust Branch and ATM,barbank,92.0,1.0,1.0,0.0,2.0
+Front St W / Yonge St (Hockey Hall of Fame),43.646144,-79.377962,47,The Bottom Line Restaurant & Bar,bar,39.0,0.0,1.0,0.0,1.0
+Church St / Lombard St,43.651678,-79.375233,17,Gyu-Kaku BBQGyu-Kaku BBQBarrington OrrW H Barker & Assoc,restaurantbarbarbar,91.0,0.0,3.0,1.0,4.0
+Augusta Ave / Denison Sq,43.653766,-79.4016759,14,Top Gun BurgerEgg BaeKnockout ChickenPizzeria Via MercantiFresco's Fish & ChipsKing's CafePow Wow CafeTaqueria GusAmadeu'sSomething's FishyGrey GardensPizzeria Via MercantiLucky 7 MassageBurdockDouble Double LandBanh Mi BarSublime Espresso Bar,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbar,577.0,0.0,7.0,10.0,17.0
+Grenoble Dr / Deauville Ln,43.71649675774656,-79.33089439933623,15,,,,,,,
+St. John's Rd / Dundas St W,43.66526761605873,-79.47502122887077,15,Lotus Inn Chinese CuisineTim HortonsLotus Inn Chinese Cuisine,restaurantbarbar,97.0,0.0,2.0,1.0,3.0
+Millwood Rd / Southvale Dr,43.70241717215276,-79.36175932936095,13,,,,,,,
+Dundas St E / Broadview Ave,43.662365,-79.351104,18,Wah ChongGood Things cafe+juice bar,restaurantbar,27.0,0.0,1.0,1.0,2.0
+Dundas St W / Edna Ave,43.657192,-79.452559,15,Mister YummyHappy Day RestaurantJenny Bar & RestaurantMister YummyHappy Day Restaurant,restaurantrestaurantbarbarbar,191.0,0.0,3.0,2.0,5.0
+Frobisher Ave / Lascelles Blvd,43.696708,-79.40045,18,,,,,,,
+Eastgate Cres / Pharmacy Ave ,43.7110442448186,-79.29127313845584,15,Pizza HutLageezHamish's Kitchen Fish & ChipsJumbo HamburgerPizza HutLageezHamish's Kitchen Fish & ChipsJumbo Hamburger,restaurantrestaurantrestaurantrestaurantbarbarbarbar,318.0,0.0,4.0,4.0,8.0
+St. Andrew's Playground Park,43.646552,-79.399586,9,,,,,,,
+Roxton Rd / Harbord St,43.65905,-79.422988,9,Palm Sunday,bar,17.0,0.0,1.0,0.0,1.0
+Ossington Ave / College St,43.6544915,-79.422634,10,A&W RestaurantCollege FalafelCollege FalafelRosa Branca CafeCarlos Snack BarCollege Barber ShopUnited CoffeeFernando Barber ShopHensel BarristersLifetime Sports Bar IncRBC Royal BankMoney Mart,restaurantrestaurantbarbarbarbarbarbarbarbarbankbank,365.0,2.0,8.0,2.0,12.0
+Sixth St / Lake Shore Blvd W,43.60116229109828,-79.50416046627045,15,Huevos GourmetLondon Fried ChickenHuevos GourmetDouble d'sLondon Fried ChickenLe Gourmand BakeryDiane & Gabbys Bar & GrillPhilip & Frank's Barber ShopMoney MartScotiabank,restaurantrestaurantbarbarbarbarbarbarbankbank,301.0,2.0,6.0,2.0,10.0
+Dufferin St / Queen St W,43.64309687937765,-79.42875613770637,15,,,,,,,
+Yonge St / Sheppard Ave E,43.76128605777495,-79.41071644205269,15,RBC Royal BankRBC Royal BankChoras Corp,barbankbank,79.0,2.0,1.0,0.0,3.0
+Davenport Rd / Bathurst St,43.676667,-79.416111,14,,,,,,,
+Havelock St / Dufferin Park,43.657343,-79.43112,18,,,,,,,
+Bellamy Rd N / The Meadoway,43.76507271818177,-79.23835381614684,14,,,,,,,
+Sunnybrook Health Centre - L Wing,43.72268,-79.37644,14,,,,,,,
+High Park Blvd / Parkside Dr,43.644887,-79.45641169999999,14,,,,,,,
+Teddington Park Ave,43.732975,-79.40401,15,Yonge SushiShinobu RestaurantThe Burger's PriestHazel's DinerShinobu RestaurantThe Burger's PriestYonge SushiHazel's Diner,restaurantrestaurantrestaurantrestaurantbarbarbarbar,332.0,0.0,4.0,4.0,8.0
+Scarlett Rd / Old Scarlett Rd ,43.678276306636576,-79.50667332401198,15,,,,,,,
+Blythwood Rd / Yonge St - SMART,43.716652,-79.399993,12,C'est Bon Authentic Chinese CuisineC'est Bon Authentic Chinese Cuisine,restaurantbar,54.0,0.0,1.0,1.0,2.0
+Runnymede Rd / Annette St,43.6596299,-79.4799176,14,Westwood GrillWestwood Grill,restaurantbar,98.0,0.0,1.0,1.0,2.0
+285 Victoria St,43.656633,-79.379625,39,Blaze PizzaBlaze PizzaJack Astor's Bar & Grill,restaurantbarbar,110.0,0.0,2.0,1.0,3.0
+Eastern Ave / Winnifred Ave,43.6592088,-79.3348396,15,,,,,,,
+Ursula Franklin St / St. George St - SMART,43.660296,-79.397107,15,The Blue Chip TruckThe Blue Chip Truck,restaurantbar,96.0,0.0,1.0,1.0,2.0
+Guildwood GO Station (South),43.754978,-79.1971289,10,,,,,,,
+Clarence Square,43.64407,-79.3929,23,Corvo Cafe & Bar,bar,49.0,0.0,1.0,0.0,1.0
+Eglinton Ave E / Brimley Rd,43.736952572933866,-79.24798367249146,18,Mary Brown's ChickenMary Brown's Chicken,restaurantbar,78.0,0.0,1.0,1.0,2.0
+Front St W / Bay St (South Side),43.64595,-79.378761,19,,,,,,,
+Jimmie Simpson Park (Queen St E),43.6605603,-79.3437663,14,Barrio CerveceriaEat Bkk Thai Kitchen QueenBarrio CerveceriaHookedEat Bkk Thai Kitchen Queen,restaurantrestaurantbarbarbar,192.0,0.0,3.0,2.0,5.0
+Alma Ave / Gladstone Ave SMART,43.6448617,-79.42822,15,Fix Coffee + BikesFix Coffee + Bikes,restaurantbar,36.0,0.0,1.0,1.0,2.0
+Jane St / Weston Rd,43.69144464414302,-79.50154583869246,15,Westwood Burger PlaceWestwood Burger Place,restaurantbar,98.0,0.0,1.0,1.0,2.0
+439 Sherbourne St,43.666051,-79.374161,47,Teazers and Pleazers Inc,restaurant,45.0,0.0,0.0,1.0,1.0
+Mary McCormick Rec Centre (Sheridan Ave),43.6475,-79.43305555555555,14,Mary McCormick Recreation Centre,bar,17.0,0.0,1.0,0.0,1.0
+24 Mountjoy Ave,43.6808774,-79.3304491,19,Greenwood School,bar,5.0,0.0,1.0,0.0,1.0
+Church St / The Esplanade,43.6469251,-79.3733192,19,Goose Island Brew House - Toronto,bar,48.0,0.0,1.0,0.0,1.0
+50 Overlea Blvd,43.707225,-79.345324,14,,,,,,,
+60 Broadway Ave,43.71024429599603,-79.39578744603273,23,,,,,,,
+Queen St W  /  Fuller Ave - SMART,43.640255,-79.439223,16,Tibet KitchenPeaches Sports BarTibet KitchenLionel's Barber Shop,restaurantbarbarbar,133.0,0.0,3.0,1.0,4.0
+Windsor St / Newcastle St,43.6171635,-79.4971065,31,,,,,,,
+O'Connor Dr / Curity Ave,43.707582,-79.311439,14,Du CafeDu CafeDr. Shearer Barbara,restaurantbarbar,117.0,0.0,2.0,1.0,3.0
+Humber College (Lakeshore Campus),43.5961692,-79.5160575,26,,,,,,,
+Bay St / Charles St W - SMART,43.668153,-79.38891,19,Aroma Espresso BarAroma Espresso BarStarbucks,restaurantbarbar,91.0,0.0,2.0,1.0,3.0
+Primrose Ave / Davenport Rd,43.67142,-79.445947,15,,,,,,,
+Ted Rogers Way / Bloor St E,43.671293,-79.380471,23,SubwayHot Dog Cart at Rogers BuildingStarbucksFinn Mccools Pub,restaurantrestaurantbarbar,92.0,0.0,2.0,2.0,4.0
+Lake Shore Blvd W / Colborne Lodge Dr,43.63771,-79.458173,27,,,,,,,
+Weston Lions Park,43.698841,-79.519472,27,,,,,,,
+Oriole Pkwy / Kilbarry Rd,43.6954486,-79.4026176,19,,,,,,,
+Highfield Rd / Gerrard St E,43.671771,-79.324961,19,Naan Karahi & BbqLahore Tikka HouseLahore Tikka HouseLahori Taste and Burger HouseLeela Indian Food BarDesi Burger & Chaat HouseGood Behaviour,restaurantrestaurantbarbarbarbarbar,266.0,0.0,5.0,2.0,7.0
+Grand Avenue Park,43.623708,-79.490054,23,La Sirena Espresso Bar & GelatoLa Sirena Espresso Bar & Gelato,restaurantbar,80.0,0.0,1.0,1.0,2.0
+Church St  / Wood St,43.662712,-79.379903,27,Hair of the DogHair of the DogFuzz Wax Bar,restaurantbarbar,126.0,0.0,2.0,1.0,3.0
+Bayview Ave / Lawren Harris Square,43.6548521,-79.35397680000001,15,,,,,,,
+King St W / Bay St (West Side),43.64852,-79.380576,38,Brick Street BakeryBrick Street BakeryPilot Coffee RoastersNeeraj Goel Barrister & SolicitorTD Bank Financial GroupToronto-Dominion BankWells Fargo BankTD Canada Trust ATM,restaurantbarbarbarbankbankbankbank,295.0,4.0,3.0,1.0,8.0
+Bloor St E / Parliament St,43.671946102001826,-79.37245115337294,19,,,,,,,
+128 Sterling Rd - SMART,43.654004,-79.444792,20,Lazarus & the Dive bar,bar,42.0,0.0,1.0,0.0,1.0
+Jane St / Lawrence Ave W,43.702340220597975,-79.50347389514123,14,Panzarotto PizzaThe Jerk BoxPanzarotto PizzaThe Jerk BoxEddy's Barber Shop,restaurantrestaurantbarbarbar,209.0,0.0,3.0,2.0,5.0
+519 Church St - SMART,43.6668334195837,-79.38120391054117,11,FabarnakStorm Crow ManorStorm Crow ManorFabarnakPaint Nite519's Beer GardenBlack LodgeThe Vic LoungeBarbara Hall ParkAlto LoungeLocalcoin Bitcoin ATM  - Hasty Market,restaurantrestaurantbarbarbarbarbarbarbarbarbank,473.0,1.0,8.0,2.0,11.0
+Ossington Ave / Bruce St,43.64570236705167,-79.41933192053696,14,Union RestaurantPho Tien ThanhGift ShopUnion RestaurantPho Tien ThanhTéWestnest,restaurantrestaurantbarbarbarbarbar,157.0,0.0,5.0,2.0,7.0
+Islington Subway Station (Aberfoyle Cres),43.645658591546216,-79.52339938954925,12,Dr. Pilarski Barbara,bar,31.0,0.0,1.0,0.0,1.0
+Spadina Ave / Fort York Blvd,43.640114,-79.393249,22,Aisle43StarbucksCIBC,barbarbank,38.0,1.0,2.0,0.0,3.0
+Vanauley St / Queen St W - SMART,43.648437,-79.39838,10,PokitoBagels on FireCacao 70Nescafé Coffee TaproomTo Ne SushiMidori RamenPokitoTo Ne SushiOrganic Nail Bar,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbar,350.0,0.0,3.0,6.0,9.0
+Howard St / Rose Ave,43.671278,-79.372127,19,,,,,,,
+Brooklawn Ave / Kingston Rd,43.721761400691236,-79.2359137196434,11,Big Boys BurgersOne JerkBig Boys BurgersTD Bank Financial Group,restaurantrestaurantbarbank,100.0,1.0,1.0,2.0,4.0
+Salem Ave / Bloor St W,43.6608333,-79.43166666666667,14,Butter Chicken RotiEmpire IncorpThe Common on BloorPreguica Sports BarO Padrinho Snack & Sports BarKings BarMain Squeeze Juice BarScotiabankMoney Mart,restaurantrestaurantbarbarbarbarbarbankbank,247.0,2.0,5.0,2.0,9.0
+Gunns Rd / Lavender Creek Trail,43.675531973168354,-79.47199740066374,14,,,,,,,
+Lake Shore Blvd W / Bathurst St,43.63675592256874,-79.39920538954927,23,LoblawsShoppers Drug Mart,barbar,64.0,0.0,2.0,0.0,2.0
+Front St W / Bay St (North Side),43.646162,-79.378912,11,Chotto MatteOlly Fresco'sChotto MatteBarrick Gold CorpRoman Bartko - TD Financial PlannerBarclays Global Investors LtdTD Bank Financial GroupSilicon Valley BankCIBCMellon Bank CanadaChase Bank,restaurantrestaurantbarbarbarbarbankbankbankbankbank,423.0,5.0,4.0,2.0,11.0
+Greenwood Ave / Gerrard St E,43.67036917803197,-79.32782698645094,15,Strickland Meat MarketJinglepear DeliGg Bar & Eatery,restaurantrestaurantbar,132.0,0.0,1.0,2.0,3.0
+Trethewey Dr / Jane St,43.697417070558615,-79.50079830912324,18,,,,,,,
+Don Mills Rd / Goodview Rd,43.785346474479695,-79.35362921031188,15,,,,,,,
+25 Booth Ave,43.6544839,-79.34105699999999,15,,,,,,,
+Danforth Ave / Danforth Rd,43.69362206784152,-79.27710529695892,14,Cafe D TajSedaghat RestaurantCafe D TajSedaghat Restaurant,restaurantrestaurantbarbar,152.0,0.0,2.0,2.0,4.0
+Lake Shore Blvd W / The Boulevard Club,43.636731,-79.444966,18,,,,,,,
+Thorncliffe Park Dr / Leaside Park Trail,43.70400405297843,-79.34807015078738,12,,,,,,,
+University Ave / Gerrard St W (East Side),43.657763,-79.389165,25,Jimmy the GreekStarbucks,restaurantbar,95.0,0.0,1.0,1.0,2.0
+Cosburn Ave / Durant Ave,43.6935477,-79.3301658,15,,,,,,,
+Marlee Ave / York Beltline Trail,43.70163,-79.44099,18,,,,,,,
+King St W / Bay St (East Side),43.648575,-79.380042,19,The Cereal BarThai ExpressVilla MadinaSushi QJimmy the GreekBagel StopMade in JapanMichel's BaguetteThe Cereal BarPodrebarac Craig BarrVogelesang Christine BarrMachado Eunice BarrMannone Joseph BarrMakuch Stanley BarrWatts Michael BarrCIBCWells Fargo BankToronto-Dominion Bank,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbankbankbank,663.0,3.0,7.0,8.0,18.0
+Bloor St W / Balmuto St,43.66981064282057,-79.38801106873031,11,La Pizza & la PastaCharlotte Tilbury - Holt Renfrew BloorScaccia RestaurantCharlotte Tilbury - Holt Renfrew BloorScotiabankBMO Bank of MontrealScotiabank,restaurantrestaurantrestaurantbarbankbankbank,325.0,3.0,1.0,3.0,7.0
+Claremont St / Dundas St W,43.651281,-79.411717,13,Sisters & CoSoul DazBarberellaNaked Beauty BarScotiabank,restaurantbarbarbarbank,142.0,1.0,3.0,1.0,5.0
+HTO Park (Queens Quay W),43.63796,-79.387502,24,,,,,,,
+Charles St W / Balmuto St - SMART,43.668427,-79.38725,24,Wow SushiOkonomi House RestaurantOkonomi House RestaurantWow Sushi,restaurantrestaurantbarbar,150.0,0.0,2.0,2.0,4.0
+King St W / Brant St,43.645102,-79.39744979999999,21,Cibo Wine BarCibo Wine BarBar MozzaFynn’s of Temple Bar,restaurantbarbarbar,45.0,0.0,3.0,1.0,4.0
+Lawton Blvd / Yonge St,43.6910667,-79.39535,13,MB barber spa,bar,48.0,0.0,1.0,0.0,1.0
+Grenoble Dr / Vendome Pl,43.715537998967406,-79.32811427663442,10,,,,,,,
+Chiltern Hill Rd / Eglinton Ave W,43.7004017,-79.4275305,17,St Urbain Bagel BakerySt Urbain Bagel BakeryBMO Bank of Montreal,restaurantbarbank,127.0,1.0,1.0,1.0,3.0
+14 Arundel Ave,43.6784834,-79.3513564,20,,,,,,,
+Antler St / Campbell Ave - SMART,43.664182,-79.449066,19,,,,,,,
+Keele St / Ingram Dr,43.698706949666914,-79.4756586460327,14,,,,,,,
+St Clair Ave W / Castleton Ave,43.668496,-79.485426,18,,,,,,,
+Emdaabiimok Ave / Lake Shore Blvd E,43.662771,-79.315223,15,,,,,,,
+Highview Ave / Kennedy Rd,43.702418581463505,-79.2563167072858,14,,,,,,,
+Emerson Ave / Bloor St W,43.658739,-79.440691,21,Latin World GroceriesGalaxy T&T Fresh Fruit & VegetableLatin World GroceriesVito Barber ShopKiss Cup Bar & Restaurant,restaurantrestaurantbarbarbar,115.0,0.0,3.0,2.0,5.0
+St Clair Ave W / Oakwood Ave,43.678177,-79.435364,15,,,,,,,
+Bellamy Rd S / Kingston Rd,43.7323277855009,-79.22496619876934,19,,,,,,,
+Queens Quay W / Lower Simcoe St,43.63951,-79.383717,19,SubwaySubwayVineyards Estate Wines,restaurantbarbar,78.0,0.0,2.0,1.0,3.0
+Fulton Ave / Pape Ave,43.68395,-79.347046,19,Hikari Sushi BarCastries Barber SalonTonka Gas BarPepe's Barber ShopMacchiato Espresso BarHikari Sushi BarNew Connexion Barbers,restaurantbarbarbarbarbarbar,233.0,0.0,6.0,1.0,7.0
+165 McRae Dr,43.70587454662511,-79.36800595602851,14,,,,,,,
+Church St / Shuter St,43.65505698168995,-79.37651024603271,14,A&W RestaurantHenry's,restaurantbar,292.0,0.0,1.0,1.0,2.0
+Spadina Ave / Bulwer St- SMART ,43.649354475273796,-79.39675713332855,12,Taco.TOBo de Duyen 菩提緣素食樓Shainbaum Barry ProductionsBarry's Office Furniture,restaurantrestaurantbarbar,159.0,0.0,2.0,2.0,4.0
+Crawford St / Lobb Ave,43.64654941401018,-79.41558900317995,22,,,,,,,
+Dawes Rd / Taylor Creek Trl,43.696631,-79.297436,18,,,,,,,
+King St W / Stafford St,43.6422222,-79.41111111111111,15,Pizza NovaLa PrepBibab ExpressAli Baba's Middle Eastern CuisineKing RusticPizza NovaLa PrepEast Liberty Medical CentreBibab ExpressMorgana CateringBQMMy Roti PlaceAli Baba's Middle Eastern Cuisine,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbar,469.0,0.0,9.0,4.0,13.0
+Florence Gell Park,43.66196582326018,-79.49851065277862,14,,,,,,,
+Orchard Park,43.66908,-79.3149,19,,,,,,,
+Carlaw Ave / Strathcona Ave,43.6753188,-79.3462789,14,,,,,,,
+Armel Ct / Albion Rd,43.721532966873205,-79.5455834809678,16,,,,,,,
+Danforth Ave / Aldridge Ave,43.684758,-79.316767,11,La SamoserieLa SamoserieMary's BrigadeiroBarbers LoungeTerrazza Bar CafeBarbers Lounge Hairstyling,restaurantbarbarbarbarbar,232.0,0.0,5.0,1.0,6.0
+640 Bloor Street E,43.67468857448634,-79.36701962396272,17,,,,,,,
+Alton Ave / Dundas St E (Greenwood Park),43.66745,-79.329408,23,,,,,,,
+Finch West Subway Station,43.76521,-79.491281,23,,,,,,,
+College St / Major St,43.6576,-79.4032,15,Second CupStarbank ConvenienceFancy FranksFound CoffeeFancy Franks,restaurantrestaurantrestaurantbarbar,147.0,0.0,2.0,3.0,5.0
+Bathurst St / Adelaide St W,43.645324,-79.40345,23,,,,,,,
+Front St W / Spadina Ave,43.64235480340359,-79.39519751877137,18,,,,,,,
+Bartley Park ,43.72211166436462,-79.30864830919265,15,Bartley park playground,bar,47.0,0.0,1.0,0.0,1.0
+Weston Rd / Lanyard Rd,43.748713,-79.541808,10,,,,,,,
+Woodbine Ave / Lake Shore Blvd E,43.665645,-79.304711,27,,,,,,,
+Metro Hall Plaza,43.645859,-79.38783,27,Harvest GreenSubwayKupfert & KimCalifornia ThaiSushi ShopManchu WokIng's Thai BowlLa LimonadaSammy's GourmetBrioche DoreeTD Bank Financial Group,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbank,313.0,1.0,0.0,10.0,11.0
+Ossington Ave / Bloor St W,43.661705,-79.425734,10,Ella's UncleAli Baba'sMcDonald'sR.Geelah Shisha LoungeCIBC,restaurantrestaurantrestaurantbarbank,210.0,1.0,1.0,3.0,5.0
+Annette St / Jane St,43.658574,-79.487246,9,Halina's DelicatessenFiddler's Dell Bar & Grill,restaurantbar,59.0,0.0,1.0,1.0,2.0
+Princes' Gates,43.63467323676012,-79.40897321886649,16,,,,,,,
+Gould St / Mutual St,43.6582,-79.3768,30,BMO Bank of Montreal,bank,8.0,1.0,0.0,0.0,1.0
+Bert Robinson Park,43.688028,-79.460265,15,,,,,,,
+Portland St / Queen St W,43.6476,-79.4015,15,La PaletteVelvet UndergroundLa PaletteScarlettBar AlturaOrganic Nail BarBMO Bank of MontrealPresident's Choice Financial ATM,restaurantbarbarbarbarbarbankbank,287.0,2.0,5.0,1.0,8.0
+Bay St / Wellesley St W,43.664088,-79.387095,34,SubwaySunny Taiwanese Breakfast 食早起Coffee Island,restaurantrestaurantbar,112.0,0.0,1.0,2.0,3.0
+Lansdowne Ave / Seaforth Ave ,43.642904395956684,-79.43746059447746,13,Parkdale Cleaners,bar,40.0,0.0,1.0,0.0,1.0
+200 Bloor St E,43.671561,-79.38117,23,"Fionn MacCool's - Bloor St., TorontoSteve's Rogers CafeFionn MacCool's - Bloor St., Toronto",restaurantrestaurantbar,115.0,0.0,1.0,2.0,3.0
+King St W / University Ave,43.64781808540915,-79.38427999073791,19,"Sam James Coffee BarEarl's Kitchen & BarSam James Coffee BarAstarté Fresh Yogurt BarThe Krys Milk Tea BarBaring Asset Management, Representative OfficeStockwood Spies Barristers & SolicitorsBdc-Business Development Bank of CanadaGoldman Sachs Canada IncScotiabankCanadian Western Bank Regional OfficeZero Canada",restaurantbarbarbarbarbarbarbankbankbankbankbank,418.0,5.0,6.0,1.0,12.0
+Fleming Cres / Bayview Ave,43.707045,-79.375437,14,Pizza PizzaHero Certified BurgersBomou Artisanal BakeryHollywood GelatoTony's Barber ShopJade Thread and Wax BarRefuel Bars,restaurantrestaurantrestaurantbarbarbarbar,201.0,0.0,4.0,3.0,7.0
+Eglinton Ave W / Venn Cres,43.69143920681119,-79.46908634795456,19,,,,,,,
+Bleecker St / St James Ave,43.669232,-79.374495,22,,,,,,,
+Spadina Rd / St.Clair Ave West,43.683979,-79.410657,15,,,,,,,
+Danforth Ave / Warden Ave,43.6950192,-79.27180659999999,15,,,,,,,
+Sentinel Rd / Finch Corridor Trail,43.7641485,-79.5012809,26,,,,,,,
+Bloor St W / Dundas St W (2),43.64285244644315,-79.53199489206543,13,,,,,,,
+80 Clinton St,43.656296,-79.414663,13,,,,,,,
+Sunnyside - Gus Ryder Pool,43.637894,-79.454823,25,,,,,,,
+Widmer St / Adelaide St W - SMART,43.647547634759206,-79.39155200496292,10,RaviSoupsKiinKiinNKPR IT LoungeMarinela-Wedge Pizza & Pasta BarDr. Allison Barriscale,restaurantrestaurantbarbarbarbar,213.0,0.0,4.0,2.0,6.0
+Pacific Ave / Glenlake Ave,43.65716,-79.46478,21,,,,,,,
+Rosedale Park (20 Scholfield Ave),43.682645,-79.377557,22,,,,,,,
+Beverley St / Dundas St W,43.652823,-79.393388,31,The Estate,bar,31.0,0.0,1.0,0.0,1.0
+St Clair Ave W / Winona Dr,43.680466,-79.432522,10,TD Bank Financial GroupTD BankTD Canada Trust ATM,bankbankbank,42.0,3.0,0.0,0.0,3.0
+Concord Ave / Bloor St W,43.66189,-79.42679,15,Pam's Caribbean KitchenFilosophy Pastry and Espresso BarPizza HutFilosophy Pastry and Espresso BarThe Black HorsePam's Caribbean KitchenPizza HutEst Sports Bar,restaurantrestaurantrestaurantbarbarbarbarbar,283.0,0.0,5.0,3.0,8.0
+Lower Don River Trail and Taylor Creek Trail,43.7027268,-79.33368089999999,16,,,,,,,
+Lake Shore Blvd W / Legion Rd,43.62052630763223,-79.48320224237995,18,The Burger Bros,restaurant,36.0,0.0,0.0,1.0,1.0
+Morse St / Eastern Ave,43.657991,-79.340075,11,,,,,,,
+Temperance St Station,43.650945,-79.379498,54,"The Chase Fish and OysterDineen Coffee CoThe Chase Fish and OysterDineen Coffee CoRobyrt H Regan and BarristerTyler Carlson, Barrister & Solicitor",restaurantrestaurantbarbarbarbar,205.0,0.0,4.0,2.0,6.0
+Moss Park,43.655972,-79.370638,13,,,,,,,
+Rosehill Ave / Avoca Ave - SMART,43.687999,-79.38906,16,,,,,,,
+Gerrard St E / Nasmith Ave ,43.66273618779861,-79.36253100740966,23,,,,,,,
+Garden Ave / Roncesvalles Ave,43.643769,-79.447915,18,Kami SushiLa la BistroChopin RestaurantSangria LoungeMarcyKami SushiChopin RestaurantLa la BistroGabby's Restaurant GroupBlitz Facial Bar by Body BlitzLa la Bar & Cafe LtdMyOlive Premium Olive Oil & Balsamic Tasting Bar,restaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbar,342.0,0.0,9.0,3.0,12.0
+Glencairn Subway Station,43.70925763810859,-79.44169105036657,15,,,,,,,
+Exhibition GO Station,43.6352007,-79.4187711,11,,,,,,,
+Wakunda Pl / O'Connor Dr,43.71602024377182,-79.3047092517501,10,Joan C Manafa Barristors and Solicitors,bar,38.0,0.0,1.0,0.0,1.0
+Regal Rd / Dufferin St,43.673939,-79.441159,15,Harvey's,restaurant,31.0,0.0,0.0,1.0,1.0
+Empress Ave / Yonge St,43.769395456625546,-79.41266521769707,17,Kinton Ramen 4Kinton Ramen 4,restaurantbar,98.0,0.0,1.0,1.0,2.0
+Logan Ave / Gerrard St E,43.6672144,-79.3452697,22,Simon's WokHailed CoffeeSimon's WokBeer Store,restaurantbarbarbar,159.0,0.0,3.0,1.0,4.0
+Leslie St / Commissioners St  ,43.657275497390124,-79.32661544194183,19,,,,,,,
+Dundas St E / Regent Park Blvd,43.660207,-79.361275,24,Tim HortonsSubwayTim HortonsSubway,restaurantrestaurantbarbar,130.0,0.0,2.0,2.0,4.0
+Eglinton Ave E / Redpath Ave,43.7078691,-79.39248,30,Panago Pizza IncIstanbul Cafe & Espresso BarIstanbul Cafe & Espresso BarPanago Pizza IncPopeye's Louisiana KitchenMaybes RestaurantMint BarBar OneCIBCLocalcoin Bitcoin ATM - Hasty Market,restaurantrestaurantbarbarbarbarbarbarbankbank,377.0,2.0,6.0,2.0,10.0
+Bloor St W / Christie St,43.6638889,-79.41888888888889,16,World Pops,restaurant,46.0,0.0,0.0,1.0,1.0
+Sherbourne St N / Elm Ave,43.6752732,-79.3778458,19,,,,,,,
+Woodbine Ave / O'Connor Dr,43.699281,-79.318802,19,President's Choice Financial ATM,bank,43.0,1.0,0.0,0.0,1.0
+Danforth Ave / Lamb Ave,43.681991,-79.329455,19,Not Just Butter ChickenSir Greek & Sir SubAl-Mandi RestaurantBorrelHot Pot CafeSweet Serendipity Bake ShopAl-Mandi RestaurantLinsmore HotelHot Pot CafeBorrelNot Just Butter ChickenSir Greek & Sir SubSweet Serendipity Bake ShopTilton Dry CleanersMaskerm Bar & RestaurantFrederick G nasello Barrister & Solicitor,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbarbar,544.0,0.0,10.0,6.0,16.0
+Shaw St / Essex St - SMART,43.667076,-79.425116,14,Yud's Place,bar,24.0,0.0,1.0,0.0,1.0
+The Well,43.643025055165865,-79.39430137761319,9,,,,,,,
+Elwood Blvd / Avenue Rd,43.707049,-79.40966,22,,,,,,,
+Cherry St / Lake Shore Blvd E,43.64827015761016,-79.35651733677065,15,,,,,,,
+Eglinton Ave E / Brentcliffe Rd,43.714305793017544,-79.36089045040129,13,,,,,,,
+Cedar Dr / Eglinton Ave E,43.744208202155754,-79.21564636613158,10,Tim Hortons,bar,31.0,0.0,1.0,0.0,1.0
+Keele St / Dovehouse Ave - SMART,43.7494501,-79.4869662,16,,,,,,,
+Barton Ave / Howland Ave - SMART,43.66842,-79.410585,27,,,,,,,
+75 Thorncliffe Park Dr,43.70518328279426,-79.34224729962946,9,,,,,,,
+Elizabeth St / Elm St,43.6570908165693,-79.38593668834272,22,Cafeteria,restaurant,22.0,0.0,0.0,1.0,1.0
+Second St / Lake Shore Blvd W,43.60191488118503,-79.49941888654288,15,Pizza HutSesame PastryBlack Collar Barber Shop,restaurantrestaurantbar,93.0,0.0,1.0,2.0,3.0
+Queen St E / Rushbrooke Ave,43.6626628,-79.3323698,14,Kibo Sushi HouseDescendant Detroit Style PizzaRadical Road Brewing CoDescendant Detroit Style PizzaKibo Sushi HouseJonesTeddy's Sports Bar & Grill,restaurantrestaurantbarbarbarbarbar,174.0,0.0,5.0,2.0,7.0
+Gerrard St E / Malvern Ave - SMART,43.685221,-79.294766,20,Ian Roth's Maple Syrup Stand,restaurant,40.0,0.0,0.0,1.0,1.0
+Danforth Ave / Barrington Ave,43.688325,-79.300463,15,SubwaySu-Good ChinesePentagram Bar & GrillSubwayTim HortonsSu-Good ChineseGood Morning TorontoSketchy Neighbourhood BarEva's Bar and RestaurantMoney Mart,restaurantrestaurantbarbarbarbarbarbarbarbank,325.0,1.0,7.0,2.0,10.0
+Tecumseth St / Queen St W - SMART,43.646552,-79.406468,9,Ramen MisoyaNorth of Brooklyn PizzeriaRaq N WaqNorth of Brooklyn PizzeriaRamen MisoyaNugateauJimmy's CoffeeOffworld LtdPure BarrePure Barre - Queen St WBar'kadaGarrison's Barber Shop,restaurantrestaurantbarbarbarbarbarbarbarbarbarbar,468.0,0.0,10.0,2.0,12.0
+Scarborough Soccer Centre,43.7154661,-79.2876595,19,,,,,,,
+Sherbourne St / Carlton St (Allan Gardens),43.663102,-79.373181,16,,,,,,,
+Fairglen Cres / Weston Rd,43.70876747477083,-79.53445192394257,11,Fat Bastard Burrito CoFat Bastard Burrito CoHolland StoreSuperstore Gas Bar,restaurantbarbarbar,184.0,0.0,3.0,1.0,4.0
+Yonge St / Aylmer Ave,43.675492,-79.388858,21,Hair Sculpture and Spa,bar,46.0,0.0,1.0,0.0,1.0
+Beltline Trail / Yonge St,43.6962302,-79.39504339999999,22,,,,,,,
+University Ave / Richmond St W,43.64981903446256,-79.38641270251617,13,Green BoxGreen Box,restaurantbar,10.0,0.0,1.0,1.0,2.0
+Bloor St W / Old Mill Trl,43.65016869999999,-79.4963345,16,,,,,,,
+Fairmount Park,43.6765897,-79.3163022,19,,,,,,,
+Victoria Park Ave / Edge Park Ave,43.717678679534906,-79.29961580314475,16,,,,,,,
+Markham Rd / The Meadoway ,43.77121894873629,-79.22956526983644,18,,,,,,,
+Central Tech  (Harbord St),43.661975,-79.407896,11,Pizza GigiPizza Gigi,restaurantbar,88.0,0.0,1.0,1.0,2.0
+Victoria Park Ave / Dawes Rd,43.706466,-79.29511,19,,,,,,,
+Thompson St / Broadview Ave - SMART,43.659471,-79.350325,24,Rooftop at Broadview HotelGeorge's Barber Shop,barbar,87.0,0.0,2.0,0.0,2.0
+St. George St / Bloor St W,43.66713121831853,-79.3995550638237,16,L'Espresso Bar MercurioL'Espresso Bar Mercurio,restaurantbar,96.0,0.0,1.0,1.0,2.0
+College St / Markham St,43.6563888888889,-79.4091666666667,17,Dis'Funktion FridaysDr. Milad K BarsoumPoint BarPony Restaurant & BarAlice Restaurant & BarKorova Milk BarBarbra Schlifer Commemorative Clinic,barbarbarbarbarbarbar,289.0,0.0,7.0,0.0,7.0
+Queen's Park Cres E / Grosvenor St - SMART,43.661803,-79.389682,16,,,,,,,
+Ling Rd / Morningside Ave,43.766663817888656,-79.18521765344238,18,,,,,,,
+Yonge St / Yorkville Ave,43.671944,-79.387778,15,Italian Vegatarian MagicAli Baba'sMamma's Pizza,restaurantrestaurantrestaurant,105.0,0.0,0.0,3.0,3.0
+1 Market St,43.6469928,-79.3706665,18,The Market Club,bar,27.0,0.0,1.0,0.0,1.0
+Davenport Rd / McAlpine St - SMART,43.673768,-79.391253,12,,,,,,,
+Midland Ave / Kingston Rd,43.7128578,-79.2487086,16,,,,,,,
+Firvalley Ct / Warden Ave,43.7032112,-79.2787149,19,,,,,,,
+OCAD University,43.65231552304792,-79.39091185000235,22,Lani Gozlan Barrister & Solicitor,bar,38.0,0.0,1.0,0.0,1.0
+Galbraith Rd / King's College Rd,43.6603874468082,-79.39537831814152,16,,,,,,,
+Christie St / Benson Ave (Wychwood Barns),43.68,-79.42500000000001,19,,,,,,,
+Portland St / Wellington St W,43.64290167152932,-79.39937033134326,15,Bar Wellington,bar,39.0,0.0,1.0,0.0,1.0
+697 Lansdowne Ave ,43.659221843735615,-79.44277410244676,14,MamaLand Resto-LoungeCassava CuisineJaner's BakeryPassioneLansdowne Subway StationBargain Club Inc,restaurantrestaurantrestaurantbarbarbar,220.0,0.0,3.0,3.0,6.0
+University Ave / Pearl St ,43.64836809385241,-79.3853510232788,18,Pizzeria LibrettoCafe LandwerPizzeria LibrettoCafe LandwerScotiabank,restaurantrestaurantbarbarbank,160.0,1.0,2.0,2.0,5.0
+Annette St / Dundas St W,43.6641174,-79.4588522,15,,,,,,,
+Parkcrest Dr / Kingston Rd,43.73596719224253,-79.21995221481933,15,,,,,,,
+Macpherson Ave / Spadina Rd,43.675791,-79.40698,13,,,,,,,
+Lawrence Ave E / Don Mills Trail,43.73458185912293,-79.35485399272919,17,,,,,,,
+Albion Rd/ Arcot Blvd,43.727621709316395,-79.55254902939286,15,,,,,,,
+Richmond St E / Yonge St,43.651838,-79.378743,15,M & M Food MarketSunset GrillTayar Fred & Assoc Barr & SolctrsChenoweth Christopher Barr & SolctrCIBCIndustrial and Commercial Bank of ChinaRBC - Royal Bank of Canada,restaurantrestaurantbarbarbankbankbank,229.0,3.0,2.0,2.0,7.0
+Birchcliff Ave / Kingston Rd,43.691688,-79.265027,14,The BirchcliffThe Birchcliff,restaurantbar,70.0,0.0,1.0,1.0,2.0
+Randolph Ave / Perth Ave,43.6585504,-79.4497659,19,,,,,,,
+Bathurst St / Fort York Blvd,43.639179,-79.399595,19,Sei47,bar,11.0,0.0,1.0,0.0,1.0
+Jane St / Bloor St W (Jane Subway Station),43.64976,-79.48477,14,"Asa SushiAsa SushiCoco Beauty BarSam's Barber ShopBarlow, Andrew",restaurantbarbarbarbar,94.0,0.0,4.0,1.0,5.0
+Dundas St E / Boulton Ave - SMART,43.663148,-79.347938,13,John's Fish n Chips,restaurant,42.0,0.0,0.0,1.0,1.0
+Amos Waites Park,43.613606,-79.4883535,25,,,,,,,
+King St E / River St,43.656784782853144,-79.35627385059036,13,Tim Hortons,bar,27.0,0.0,1.0,0.0,1.0
+Lansdowne Subway Station,43.65922918158098,-79.44320901022282,23,Lansdowne Subway StationBargain Club Inc,barbar,59.0,0.0,2.0,0.0,2.0
+Twelfth St / Thirteenth St,43.6002896,-79.5108692,23,,,,,,,
+Oak St / Sumach St,43.6617908,-79.361515,27,,,,,,,
+Berkeley St / Dundas St E - SMART,43.658816,-79.367318,20,,,,,,,
+Bathurst Subway Station,43.6666667,-79.41166666666668,23,One Love VegetarianOne Love VegetarianLloyd's Barber ShopGolden Barber Shop,restaurantbarbarbar,123.0,0.0,3.0,1.0,4.0
+King St W / Fraser Ave,43.6394444,-79.42527777777778,15,CaffinoCaffinoLouie - Craft CoffeeCaffino Manageria and Expresso Bar,restaurantbarbarbar,131.0,0.0,3.0,1.0,4.0
+Dundas St W / St Helen's Ave - SMART,43.6504218,-79.4407647,26,Molly Maquires Bar & GrillLocalcoin Bitcoin ATM - Express Mart,barbank,88.0,1.0,1.0,0.0,2.0
+Kingston Rd / Warden Ave,43.68824135931814,-79.27046628033244,14,JatujakJatujak,restaurantbar,64.0,0.0,1.0,1.0,2.0
+Cruickshank Park,43.7023860650084,-79.52594758324148,14,,,,,,,
+York Mills Rd / Lesmill Rd,43.7549215557014,-79.35174838465576,13,Me-Va-MeMe-Va-MeTim HortonsThe Burger's Priest,restaurantbarbarbar,66.0,0.0,3.0,1.0,4.0
+Dufferin St / Bloor St W,43.66083333333333,-79.43583333333333,23,,,,,,,
+Pioneer Village Subway Station,43.77649016265579,-79.5085364909097,11,,,,,,,
+Church St / Alexander St,43.663722,-79.380288,34,Kawa SushiKawa SushiExpress PizzaBoutique BarKB Barber Hair StylistsBen's Den Barber HairstylistBMO Bank of Montreal,restaurantbarbarbarbarbarbank,238.0,1.0,5.0,1.0,7.0
+Riverdale Park South (Broadview Ave),43.667819,-79.35347,15,,,,,,,
+552 Birchmount Rd,43.71176278859601,-79.27028152889692,15,,,,,,,
+Shaughnessy Blvd / Sheppard Ave E,43.77351462694018,-79.35306224113921,13,,,,,,,
+Jane St / Finch Ave W,43.759292283169536,-79.5183741465576,15,Harvey's,restaurant,45.0,0.0,0.0,1.0,1.0
+King St W / Wilson Park Blvd,43.6372958,-79.4423237,19,Hunter & Harper,bar,48.0,0.0,1.0,0.0,1.0
+Beltline Trail / Chaplin Cres,43.704461,-79.423122,14,,,,,,,
+Howard St / Sherbourne St,43.6712581,-79.376367,29,EggsmartMaison SelbyMaison SelbySous SolSaxony RestaurantEggsmartPlatinum Barber ShopBoots BarTatsiou William Barr & Solctr,restaurantrestaurantbarbarbarbarbarbarbar,262.0,0.0,7.0,2.0,9.0
+King St W / Spadina Ave,43.645323,-79.395003,17,,,,,,,
+Benshire Dr / The Meadoway,43.76174092019504,-79.24473961415558,10,,,,,,,
+St Clarens Ave / College St,43.651238,-79.43868,13,De FlouredPeniche Community Club of TorontoDe Floured,restaurantbarbar,114.0,0.0,2.0,1.0,3.0
+Yonge St / Macpherson Ave,43.6791876,-79.39071899999999,14,Carens RosedaleGreenhouse Juice CoBMO Bank of Montreal,restaurantbarbank,124.0,1.0,1.0,1.0,3.0
+11 Spadina Rd,43.6677246,-79.4041365,8,,,,,,,
+Victoria Park Ave / Kingston Rd,43.68035,-79.28357,14,Banque Nationale du Canada,bank,43.0,1.0,0.0,0.0,1.0
+Palmerston Ave / Dundas St W,43.651603,-79.408346,22,Old SchoolPatoisThe Heartbreak ChefHashtag GalleryOld SchoolPatoisArt and Drinks,restaurantrestaurantrestaurantbarbarbarbar,284.0,0.0,4.0,3.0,7.0
+Strachan Ave / East Liberty St - SMART,43.63906470236988,-79.41080996164456,24,,,,,,,
+Tommy Thompson Park (Leslie Street Spit),43.65222662225532,-79.32295440954084,28,,,,,,,
+Eglinton Ave E / Mason Rd ,43.742037440522616,-79.22488680080262,11,,,,,,,
+Livingston Rd / Guildwood Pkwy,43.747854,-79.199327,18,,,,,,,
+Polson Pier,43.641675,-79.354006,21,The Docks,bar,34.0,0.0,1.0,0.0,1.0
+Cherry Beach,43.637764,-79.345359,46,,,,,,,
+Little Norway Park,43.635023,-79.399505,22,,,,,,,
+Heyworth Cres / Kingston Rd,43.6750806,-79.3068697,19,,,,,,,
+Hillsdale Ave W / Yonge St,43.7029672,-79.3979073,15,Hillsdale Bar and Grill,bar,8.0,0.0,1.0,0.0,1.0
+Christie St / Dupont St,43.67168,-79.421192,19,AG MacaronsThai MangoMount PinatuboLoop Line Wine & FoodStubbe Chocolates & PastryLoblaws Dupont StreetThai MangoAlex Wine Bar Inc,restaurantrestaurantbarbarbarbarbarbar,270.0,0.0,6.0,2.0,8.0
+Opposite 1103 Leslie St,43.72093164598881,-79.34989416350709,18,,,,,,,
+Elm St/ University Ave (East Side),43.65637299999999,-79.38781039999999,17,Mr. Burrito PlusPasta Mondo,restaurantrestaurant,56.0,0.0,0.0,2.0,2.0
+Queen St. E / Eastern Ave,43.667208,-79.312315,15,The Mumbai HouseMurphy's Law Irish Pub IncBrett's Ice CreamPaint NiteCountry Style DonutsThe Mumbai HouseBeaches Coin-Op Car Wash,restaurantbarbarbarbarbarbar,291.0,0.0,6.0,1.0,7.0
+75 Tandridge Cres,43.729578273586064,-79.54699793872719,15,,,,,,,
+McRae Dr / Laird Dr - SMART,43.70979296822595,-79.36389214460489,24,LOCAL Public Eatery LeasideCIBC,barbank,70.0,1.0,1.0,0.0,2.0
+Gerrard St E / Broadview Ave  - SMART,43.665656,-79.352055,17,Hanoi 3 SeasonsRose S Vietnamese SandwichA&W RestaurantO'somaeFarsideHanoi 3 SeasonsAAA PubRose S Vietnamese SandwichA&W RestaurantPublic HouseO'somaeScotiabank,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbank,366.0,1.0,7.0,4.0,12.0
+Yonge St / Bloor St,43.669969,-79.386532,18,Ritz Carribean RestaurantChick-Fil-ATop TeaMore Natas PleaseMoney Mart,restaurantrestaurantrestaurantrestaurantbank,207.0,1.0,0.0,4.0,5.0
+King St W / York St (2),43.647968822765,-79.38316961352653,19,"Ho Ga Oriental CuisineThe Bagel StopAroma Espresso BarThai IslandSubwayTreatsFreshiiMmmuffinsZ Teca Gourmet BurritoSweet TemptationsAroma Espresso BarBlustein & Pearlstein Barristers and SolicitorsPolish'd Nail BarCafe and Bar DebutPasternack Michael Barrister & SolicitorPolish'd Nail BarSaleh Law, Barristers and SolicitorsBank of ChinaNewedge Canada IncBanque Nationale du CanadaBDC - Business Development Bank of CanadaCitibank CanadaTSX Toronto Stock Exchange",restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbankbankbankbankbankbank,608.0,6.0,7.0,10.0,23.0
+Lisgar St / Dundas St W - SMART,43.6493472,-79.42668,5,Imanishi Japanese KitchenImanishi Japanese KitchenNossa CasaThe Opium Bar86'd,restaurantbarbarbarbar,96.0,0.0,4.0,1.0,5.0
+College St / Henry St ,43.6591529,-79.3947953,11,Prenup PubFat Bastard Burrito CoPrenup Pub,restaurantrestaurantbar,107.0,0.0,1.0,2.0,3.0
+Sherbourne St / Isabella St,43.669576,-79.375961,19,Pauls Roti ShopGabby'sTim HortonsIsabella Hotel & Suites,restaurantbarbarbar,168.0,0.0,3.0,1.0,4.0
+Yonge St / Alexander St - SMART,43.662862,-79.383572,17,Ali Baba's Middle Eastern CuisineBargains For UsRBC Royal Bank,restaurantbarbank,128.0,1.0,1.0,1.0,3.0
+Fort York Blvd / Grand Magazine St,43.63758782904466,-79.40314232209015,18,,,,,,,
+Kennedy Rd/Ranstone Gdns (Jack Goodlad Park),43.74190570940633,-79.27181887640458,14,,,,,,,
+Dundas St W / Prince Edward Dr N,43.660324268765464,-79.51154350422973,17,Domino's PizzaDomino's PizzaWaterfront Regeneration Trust,restaurantbarbank,114.0,1.0,1.0,1.0,3.0
+Royal York Rd / Lake Shore Blvd W,43.6029904,-79.4926867,16,,,,,,,
+Armoury St / Chestnut St,43.65351799690878,-79.38591063795928,13,,,,,,,
+King St E / Church St,43.65003919999999,-79.3733541,15,La Maquette,restaurant,48.0,0.0,0.0,1.0,1.0
+Humberside Grounds - SMART,43.65917,-79.46997,20,,,,,,,
+Lower Sherbourne St / The Esplanade,43.648655,-79.367061,27,,,,,,,
+Symes Rd / Glen Scarlett Rd - SMART,43.673391524931525,-79.47798367814572,15,,,,,,,
+Bloor St W / Riverside Dr,43.647663,-79.487583,22,,,,,,,
+Goodwood Park Crt / Dentonia Park,43.694826,-79.295208,19,,,,,,,
+Dundas St W / Crawford St,43.649722,-79.416944,45,,,,,,,
+Amroth Ave / Danforth Ave,43.6856128,-79.31168269999999,18,Brick Farm BreakfastBrick Farm BreakfastTrue Brew Cafe,restaurantbarbar,138.0,0.0,2.0,1.0,3.0
+Downsview Park Subway Station - SMART,43.753107,-79.479626,20,,,,,,,
+Strachan Ave / Princes' Blvd,43.635,-79.4088888888889,19,,,,,,,
+Alameda Ave / Vaughan Rd - SMART,43.690903,-79.4375028,16,,,,,,,
+Sheppard Ave E / Leslie St,43.77114830031903,-79.36381166455688,19,,,,,,,
+Merton St / Mount Pleasant Rd,43.697819,-79.38786,23,,,,,,,
+King St W / Tecumseth St,43.64333333333333,-79.40555555555557,17,Bamboo Buddha,restaurant,47.0,0.0,0.0,1.0,1.0
+Simcoe St / King St W,43.647508351306186,-79.38604436555764,13,BBQ FunOriginal Joe's Franchise Group IncCultures RestaurantElephant & CastleCharlotte’s Room,restaurantrestaurantrestaurantbarbar,176.0,0.0,2.0,3.0,5.0
+King St W / York St,43.6480008,-79.383177,20,"Ho Ga Oriental CuisineThai IslandThe Bagel StopAroma Espresso BarMmmuffinsZ Teca Gourmet BurritoSubwaySweet TemptationsTreatsFreshiiAroma Espresso BarPolish'd Nail BarBlustein & Pearlstein Barristers and SolicitorsCafe and Bar DebutPasternack Michael Barrister & SolicitorPolish'd Nail BarSaleh Law, Barristers and SolicitorsBank of ChinaNewedge Canada IncBanque Nationale du CanadaBDC - Business Development Bank of CanadaCitibank CanadaTSX Toronto Stock Exchange",restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbankbankbankbankbankbank,615.0,6.0,7.0,10.0,23.0
+Mill St / Parliament St,43.650256,-79.36163,15,Arvo Coffee,bar,48.0,0.0,1.0,0.0,1.0
+Queen St E / Rhodes Ave,43.666224,-79.317693,23,Jaclyn'sCanadian Drycleaners,restaurantbar,80.0,0.0,1.0,1.0,2.0
+Gerrard Square Mall (1010 Gerrard St E),43.668553,-79.338673,21,Asian GourmetTropical Joe'sThai Delight IncPopeye's Louisiana KitchenReal Fruit Bubble TeaTropical Joe'sPopeye's Louisiana KitchenAsian GourmetReal Fruit Bubble TeaTim HortonsBMO Bank of Montreal,restaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbank,317.0,1.0,5.0,5.0,11.0
+Jane St / Haney Ave,43.6743457123134,-79.4948437786083,17,,,,,,,
+Talbot Rd / Finch Hydro Corridor,43.78225298110634,-79.42367062831116,14,,,,,,,
+Davenport Rd / Christie St,43.675278,-79.423889,27,,,,,,,
+St. George St / Hoskin Ave,43.6637403,-79.39806449999999,15,Chinese Food Truck,restaurant,44.0,0.0,0.0,1.0,1.0
+Felstead Ave/Gillard Ave (Monarch Park),43.6791345,-79.3263159,26,,,,,,,
+Lumsden Ave / Cedarvale Ave,43.693187,-79.314283,9,,,,,,,
+Jarvis St / Maitland Pl,43.6647688,-79.3772602,16,The Blake HouseThe Blake House,restaurantbar,20.0,0.0,1.0,1.0,2.0
+Livingston Rd (Highland Creek Trail),43.7561681,-79.2026694,17,,,,,,,
+Hawksbury Dr / Sheppard Ave E ,43.76816239444779,-79.38312075158996,14,,,,,,,
+College Park - Yonge St Entrance,43.65988,-79.38279,25,barBURRITOBaronessbarBURRITOLocalcoin Bitcoin ATM - College Park - Gateway Newstands,restaurantbarbarbank,163.0,1.0,2.0,1.0,4.0
+Birchmount Rd / Kingston Rd,43.69401297794256,-79.26257204548136,15,St Mar Barsaumo Syrian Church,bar,45.0,0.0,1.0,0.0,1.0
+Richmond St W / Bathurst St,43.64666748425228,-79.40299591349182,15,Mean BaoMean BaoPuma Social,restaurantbarbar,141.0,0.0,2.0,1.0,3.0
+Kingston Rd / Ridgemoor Ave,43.70643614257429,-79.25104443353288,14,Ikki Sushi Japanese and CuisineIkki Sushi Japanese and Cuisine,restaurantbar,88.0,0.0,1.0,1.0,2.0
+Mutual St / Shuter St (Arena Gardens),43.6559476,-79.37558829999999,17,William Jaksa Barrister & Solicitor,bar,38.0,0.0,1.0,0.0,1.0
+Mabelle Park,43.645389479325615,-79.5276822170925,15,,,,,,,
+Lake Shore Blvd W / Seventeenth St,43.59841926031898,-79.51561102394257,11,,,,,,,
+111 Broadview Ave,43.6593483,-79.34993659999999,13,Liberty ShawarmaRooftop at Broadview HotelEastbound Brewing CoLiberty ShawarmaUrban HouseGeorge's Barber ShopLocalcoin Bitcoin ATM - Riverside Market,restaurantbarbarbarbarbarbank,269.0,1.0,5.0,1.0,7.0
+Colonel Danforth Park,43.7777114,-79.1659711,19,,,,,,,
+Spadina Ave / Adelaide St W,43.6472019,-79.3953394,15,PizzaioloNaked Creative Kitchen BarBlue Mountain BistroShwarma TimeNaked Creative Kitchen BarGibson & Barnes LLPGaertner Baron,restaurantrestaurantrestaurantrestaurantbarbarbar,118.0,0.0,3.0,4.0,7.0
+Joseph J Piccininni Community Centre,43.675648,-79.4527619,19,Castello Sports BarAmarula Restaurant and LoungePorto Novo Grill & Bar IncPorto Bras Bar & Grill,barbarbarbar,187.0,0.0,4.0,0.0,4.0
+Exhibition GO (Atlantic Ave),43.637695491830144,-79.42023184193503,13,,,,,,,
+Broadview Ave / Westwood Ave,43.6848652,-79.356602,23,The Wine Shop,bar,44.0,0.0,1.0,0.0,1.0
+Western Battery Rd / Pirandello St,43.640075,-79.414156,29,,,,,,,
+Gordonridge Pl / Danforth Rd,43.72729077290258,-79.25237907196654,14,,,,,,,
+Bathurst St / Front St W,43.64134790000001,-79.4013882,33,,,,,,,
+Queen St E / Nursewood Rd,43.673831,-79.281455,19,Beach School of Dance,bar,33.0,0.0,1.0,0.0,1.0
+Kingston Rd / Markham Rd,43.73878438927323,-79.21746485700835,15,WingporiumPizza PizzaDomino's PizzaPizza PizzaJoin SushiWingporiumDomino's Pizza,restaurantrestaurantrestaurantbarbarbarbar,230.0,0.0,4.0,3.0,7.0
+Danforth Ave / Gough Ave,43.678401,-79.346289,23,Simone's Caribbean RestaurantSimone's Caribbean RestaurantStarbucks25 Celsius Nail Beauty Bar,restaurantbarbarbar,171.0,0.0,3.0,1.0,4.0
+E.T. Seton Park (Eglinton Ave E / Leslie St),43.715951,-79.351246,26,,,,,,,
+Brimley Rd / McCowan District Park,43.72704086366749,-79.24391402446746,19,,,,,,,
+36 Park Lawn Rd,43.62369169999999,-79.4838132,14,Mimico Nails Bar,bar,19.0,0.0,1.0,0.0,1.0
+Simcoe St / Wellington St W North,43.6462176,-79.3855048,15,RBC Royal BankMeridian Credit Union ATM,bankbank,76.0,2.0,0.0,0.0,2.0
+Humber Bay Shores Park East,43.6308933,-79.4722622,21,,,,,,,
+2300 Lakeshore Blvd W,43.61868,-79.48674,14,,,,,,,
+Wellesley St E / Jarvis St,43.6662047,-79.37901219999999,23,,,,,,,
+Howard Park Ave / Parkside Dr,43.648657,-79.458111,15,,,,,,,
+Ramsden Park,43.676184561302776,-79.38962496400146,15,,,,,,,
+Sackville St / Eastern Ave - SMART,43.653809,-79.3595,12,,,,,,,
+Willingdon Blvd / Bloor St W (Green P),43.64817,-79.510392,13,Merlot RestaurantKingsway VarietyMerlot RestaurantKingsway Variety,restaurantrestaurantbarbar,204.0,0.0,2.0,2.0,4.0
+Niagara St / Richmond St W,43.64534,-79.409597,42,,,,,,,
+Simcoe St / Pullan Pl,43.65105290412541,-79.38764943227872,30,Hot Dog VendorVyrgo Beauty Bar,restaurantbar,58.0,0.0,1.0,1.0,2.0
+Dalton Rd / Bloor St W,43.6662942,-79.4066433,15,Famoso Italian Pizzeria - AnnexMYMY ChickenAka TeppanSt. Louis Bar and GrillFamoso Italian Pizzeria - AnnexThe Dalton BoizSuperfreshUnion Juice Staff,restaurantrestaurantrestaurantbarbarbarbarbar,235.0,0.0,5.0,3.0,8.0
+Yonge St / Dundonald St - SMART,43.665801,-79.384796,10,Wrap & GrabIstanbul Doner KebapYonge Street TattoosBloom CafeBar VoloRitz Restaurant & BarBlushPretty : Beauty BarYogi BareCarrington's Sports BarBuy & Sell-bargain Hunter NewspaperRBC Royal Bank,restaurantrestaurantbarbarbarbarbarbarbarbarbank,376.0,1.0,8.0,2.0,11.0
+Bond Ave / Don Mills Trail,43.74475834253035,-79.35348069940567,19,,,,,,,
+Grenoble Dr / Gateway Blvd,43.71513211098082,-79.33413623320465,13,,,,,,,
+King St E / Victoria St,43.6495789,-79.3762096,17,Victoria's RestaurantThe Omni King Edward HotelConsort BarCachet LadiesBates BarristersIn Citta Restaurant & BarO'Briens Sandwich Bars,restaurantbarbarbarbarbarbar,223.0,0.0,6.0,1.0,7.0
+Kendal Ave / Bernard Ave,43.671513,-79.408317,14,,,,,,,
+Oak St / Sackville St,43.6613642,-79.3641171,19,,,,,,,
+Hanna Ave / Liberty St,43.638608601636705,-79.41965437361068,17,Local Liberty VillageLocal Liberty VillageBalzac's CoffeeScotiabank,restaurantbarbarbank,139.0,1.0,2.0,1.0,4.0
+Kendal Ave / Spadina Rd,43.670318,-79.405181,9,Sheena's Place,restaurant,21.0,0.0,0.0,1.0,1.0
+McGill St / Church St,43.660694,-79.379052,19,Kinka IzakayaGuu IzakayaKinton Ramen 5A&W RestaurantKinka IzakayaGuu IzakayaKinton Ramen 5,restaurantrestaurantrestaurantrestaurantbarbarbar,234.0,0.0,3.0,4.0,7.0
+Lynn Williams St / Pirandello St ,43.639124514797004,-79.41423166721611,16,,,,,,,
+Coronation Park (Martin Goodman Trail),43.635007,-79.403341,18,,,,,,,
+Waterfront Trail (Rouge Hill),43.778015,-79.131911,16,,,,,,,
+Walter Saunders Park,43.699327072589426,-79.4493630391668,15,,,,,,,
+Broadview Subway Station,43.6772,-79.35858,13,Ryus Noodle BarEl CharroRyus Noodle BarEl Charro,restaurantrestaurantbarbar,128.0,0.0,2.0,2.0,4.0
+Beaty Ave / Queen St W,43.6393107,-79.4408141,18,,,,,,,
+East Lynn Ave / Danforth Ave,43.6850809,-79.3149901,14,Royal BeefThe Groove RestaurantCafe CocoroCarter's Ice CreamImpressions the Dental Hygiene SpaSharman’s Proper PiesClean Cuts Barbering,barbarbarbarbarbarbar,246.0,0.0,7.0,0.0,7.0
+Humber Bay Shores Park / Marine Parade Dr,43.626265,-79.476723,54,BB CafeFirkin on the BayBB Cafe,restaurantbarbar,124.0,0.0,2.0,1.0,3.0
+Wilket Creek Park,43.720645,-79.355474,26,,,,,,,
+Balliol St / Yonge St - SMART,43.6978701,-79.39419,36,,,,,,,
+Ursula Franklin St / Huron St - SMART,43.660274,-79.398049,18,,,,,,,
+Cherry St / Distillery Ln,43.650279,-79.356832,12,,,,,,,
+Ellis Ave / The Queensway,43.63855,-79.46693,19,,,,,,,
+Ulster St / Bathurst St,43.66,-79.4088888888889,11,,,,,,,
+Hayter St / La Plante Ave,43.6591666666667,-79.3855555555556,20,Bubble Bath Spa & NailsBarburrito,barbar,48.0,0.0,2.0,0.0,2.0
+Lisgar St / Queen St W - SMART,43.64299174164139,-79.42355911563249,20,King SliceTheatre Centre CafePizza PizzaThe Burger's PriestBar Cats Commercial Cleaning Svc,restaurantrestaurantrestaurantrestaurantbar,198.0,0.0,1.0,4.0,5.0
+King's Mill Park,43.64920406876699,-79.49336334201408,26,,,,,,,
+Richmond St E / Jarvis St Green P,43.652634,-79.374222,8,Soloways Hotdog Factory OutletBarry's Masonry & Chimney Services Inc,restaurantbar,65.0,0.0,1.0,1.0,2.0
+Rogers Rd / Bicknell Ave,43.68189526215492,-79.4736382392868,23,Seara Bakery & PasteryChurrasqueira Martins Grill HouseCanecas Sports Cafe LtdSeara Bakery & PasteryChurrasqueira Martins Grill HouseOsmow’s Shawarma,restaurantrestaurantbarbarbarbar,366.0,0.0,4.0,2.0,6.0
+Soudan Ave / Yonge St ,43.70430959999999,-79.3972815,18,Hale Coffee,restaurant,25.0,0.0,0.0,1.0,1.0
+Ferrand Dr / Rochefort Dr,43.719632535237835,-79.33199950866776,19,GoodLife Fitness North York Ferrand and RochefortDelimark Cafes,barbar,92.0,0.0,2.0,0.0,2.0
+Yonge St / Orchard View Blvd,43.7083577,-79.39886200000001,35,Star King Viet Thai CuisinePai UptownThe Rose & CrownStar King Viet Thai CuisinePai UptownRBC Royal BankRefuel Juice & Salad BarRBC Royal BankKorea Exchange Bank of Canada,restaurantrestaurantbarbarbarbarbarbankbank,236.0,2.0,5.0,2.0,9.0
+East Liberty St / Western Battery Rd,43.6392777,-79.4115736,16,Wendy'sWendy's,restaurantbar,66.0,0.0,1.0,1.0,2.0
+Yonge St / North York Blvd,43.76726589934926,-79.41263489814757,22,Konjiki RamenJack Astor's Bar and GrillJack Astor's Bar and GrillKonjiki RamenSaryo Cafe,restaurantrestaurantbarbarbar,235.0,0.0,3.0,2.0,5.0
+Lake Shore Blvd W / Thirty Ninth Street,43.5927419,-79.54033009999999,18,Dickson's Piano Bar and GrillThe Tale Indian Cuisine & BarDickson's Piano Bar and Grill,restaurantbarbar,105.0,0.0,2.0,1.0,3.0
+Euclid Ave / Bloor St W,43.664467,-79.414783,19,Korean Village RestaurantRakia BarKorean Village RestaurantMaya Hair SalonSpring NailsRakia BarBarrio CoreanoCanadian Barista & Coffee AcademyBMO Bank of MontrealKorea Exchange Bank of Canada,restaurantrestaurantbarbarbarbarbarbarbankbank,282.0,2.0,6.0,2.0,10.0
+Dundas St E / Parliament St,43.659575,-79.365769,14,LJ's Bar & GrillLJ's Bar & GrillTim Hortons,restaurantbarbar,129.0,0.0,2.0,1.0,3.0
+Lisgar Park,43.6423847,-79.4240277,34,Omg on the Park,restaurant,28.0,0.0,0.0,1.0,1.0
+Lake Shore Blvd W / Long Branch Ave,43.59445833196281,-79.53387390859834,11,George the GreekHero Certified BurgersGeorge the GreekStarbucksThe Beer StoreHero Certified BurgersTD Bank Financial GroupTD Canada Trust Branch and ATMTD Canada Trust ATM,restaurantrestaurantbarbarbarbarbankbankbank,350.0,3.0,4.0,2.0,9.0
+Lillian St / Soudan Ave - SMART,43.70607287248461,-79.39356161653288,30,,,,,,,
+Cosburn Ave / Donlands Ave,43.690537,-79.341307,19,,,,,,,
+Luttrell Ave / Danforth Ave,43.6897656,-79.2939525,15,Mr Tastys Drive inTuana Lunch & DinnerMr Tastys Drive inTuana Lunch & DinnerCountry StyleHonest Bargain MartWorld of Hair Design & Barber,restaurantrestaurantbarbarbarbarbar,257.0,0.0,5.0,2.0,7.0
+Jane St / Queens Dr,43.70673804962302,-79.50477543802873,15,1 Plus 3 Pizza & Wings1 Plus 3 Pizza & Wings,restaurantbar,96.0,0.0,1.0,1.0,2.0
+Bloor St W / High Park Ave (High Park),43.6535269,-79.4650569,21,,,,,,,
+Front St E / Scott St,43.6476616,-79.37549,11,QuiznosDog Fountain,restaurantbar,155.0,0.0,1.0,1.0,2.0
+Queen St W / Dovercourt Rd,43.6438602,-79.4227573,9,The Good SonBar PoetThe Social BarDog & BearThe Good SonWayward,restaurantbarbarbarbarbar,213.0,0.0,5.0,1.0,6.0
+Lake Shore Blvd W / Ellis Ave,43.635932,-79.465083,17,,,,,,,
+Dundas St W / St. Patrick St,43.6545174,-79.3895315,17,Cafe PlentyCafe PlentyBalaban Rebecca G Barr,restaurantbarbar,79.0,0.0,2.0,1.0,3.0
+Yonge St / Golfdale Rd,43.732016,-79.403637,15,The Sushi BarCoppi RistoranteAbbot PubThe Sushi BarCoppi RistoranteThe Sushi Bar Toronto,restaurantrestaurantbarbarbarbar,222.0,0.0,4.0,2.0,6.0
+Ossington Ave / Harrison St,43.651111111111106,-79.4213888888889,17,One day pop-up restaurant,restaurant,40.0,0.0,0.0,1.0,1.0
+35 Erindale Ave,43.67729,-79.35741,11,,,,,,,
+Adelaide St W / Strachan Ave,43.643253094827294,-79.41230469904167,15,Pennies,bar,7.0,0.0,1.0,0.0,1.0
+Duncan Mill Rd / Valleybrook Dr,43.76167125342455,-79.35258302698364,15,Riverside Grill,bar,19.0,0.0,1.0,0.0,1.0
+The Kingsway / Ashley Rd,43.66279594478841,-79.51959827976225,15,Scotiabank,bank,48.0,1.0,0.0,0.0,1.0
+Northern Dancer Blvd / Lake Shore Blvd E,43.663162,-79.309765,26,Athens Pastries & CafeAthens Pastries & Cafe,restaurantbar,94.0,0.0,1.0,1.0,2.0
+Weston Rd / St Clair Ave W,43.673019,-79.467994,19,,,,,,,
+Albany Ave / Dupont St,43.67348899977229,-79.41339520555726,15,,,,,,,
+Concord Ave / Dewson St,43.656945,-79.424911,16,,,,,,,
+Dufferin St / Finch Corridor Trail,43.7724019,-79.4675395,19,,,,,,,
+1525 Dundas St W,43.64957,-79.432446,15,The MuttThe DerbyBlanc 4,barbarbar,98.0,0.0,3.0,0.0,3.0
+Princess St / Front St E,43.650297574961044,-79.36648460341635,14,,,,,,,
+Pharmacy Ave / Danforth Ave,43.6929478,-79.28339980000001,15,,,,,,,
+Scott St / The Esplanade,43.64659663170443,-79.37530913867988,19,The Keg Steakhouse + BarThe Keg Steakhouse + Bar,restaurantbar,76.0,0.0,1.0,1.0,2.0
+St Clair Ave W / Gunns Rd,43.672079,-79.470171,23,Bulk Barn,bar,42.0,0.0,1.0,0.0,1.0
+Sorauren Ave / Geoffrey St - SMART,43.649172,-79.4445087,15,,,,,,,
+Downsview Park Blvd / Keele St  - SMART,43.73673829262113,-79.48227195568086,16,,,,,,,
+Winona Dr / Davenport Rd,43.674923,-79.430465,10,Salto Antipasto LoungeCrosscut CoffeeEnd Zone Sports Bar,barbarbar,120.0,0.0,3.0,0.0,3.0
+Bloor St W / Manning Ave - SMART,43.663912,-79.416124,42,Tofu VillageSunrise HousePAT Central MarketSunrise HouseKorea HouseJoker LoungeBar One,restaurantrestaurantbarbarbarbarbar,221.0,0.0,5.0,2.0,7.0
+Gerrard St E / Victoria Park Ave - SMART,43.686962,-79.286864,15,,,,,,,
+Toronto Inukshuk Park,43.6323994,-79.40978179999999,46,,,,,,,
+Mount Pleasant Rd / Davisville Ave - SMART,43.70088225686968,-79.38736016665911,16,Delimark CafesDelimark Cafes,restaurantbar,88.0,0.0,1.0,1.0,2.0
+Finch Subway Station ,43.781877158752955,-79.41528502874928,17,Finch Station Hot Dog StandFinch Station Hot Dog Stand,restaurantbar,48.0,0.0,1.0,1.0,2.0
+Scarlett Rd / Clairton Cres,43.67597251709289,-79.50582129577026,14,,,,,,,
+Willcocks St / St. George St,43.662085,-79.397735,15,Mama's Best,restaurant,44.0,0.0,0.0,1.0,1.0
+Queens Quay E / Lower Sherbourne St,43.645215,-79.364898,26,Popeye's Louisiana KitchenSherbourne CommonPopeye's Louisiana KitchenScotiabank,restaurantbarbarbank,179.0,1.0,2.0,1.0,4.0
+Bridgman Ave / Kendal Ave,43.675556,-79.410278,15,SubwayTim HortonsSubway,restaurantrestaurantbar,78.0,0.0,1.0,2.0,3.0
+Langford Ave / Danforth Ave - SMART,43.6800218,-79.3405681,32,Riverside KitchenGino's PizzaAbyssinia Ethiopian RestaurantStarbucksMapleleaf Sports Bar & GrillWhite SwanDesta Gebeya MarketTips Nail BarTips Nail Bar-Manicures Pedicures Facials Waxing Acrylic Gel NailsWhat a Bargain,restaurantrestaurantrestaurantbarbarbarbarbarbarbar,333.0,0.0,7.0,3.0,10.0
+St. George St / Willcocks St,43.662452744495575,-79.3978384219513,34,Second Cup Coffee CoSecond Cup Coffee Co,restaurantbar,80.0,0.0,1.0,1.0,2.0
+Eglinton Ave W / Ennerdale Rd,43.695032348609836,-79.45302971031188,12,Gino's NOFRILLS TorontoToronto Barça PenyaSpice Isle Sports Bar,barbarbar,93.0,0.0,3.0,0.0,3.0
+Wallace Ave / Pauline Ave,43.6632257,-79.4397052,17,,,,,,,
+Lonsdale Rd / Spadina Rd,43.688526,-79.412903,14,Pizza BanfiMashu Mashu Mediterranean GrillSecond Cup Coffee CoSushi LoversMashu Mashu Mediterranean GrillPizza BanfiRBC Royal BankForest Hill Barber ShopVillage JuicerySecond Cup Coffee CoSushi LoversRBC Royal BankPage 1Scotiabank,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbankbankbank,393.0,3.0,7.0,4.0,14.0
+Roncesvalles Ave / Fermanagh Ave,43.646314469245205,-79.44879407014527,18,,,,,,,
+Warden Subway Station,43.71161098023304,-79.28055565662231,17,,,,,,,
+Riverdale Park North (Broadview Ave),43.671172,-79.354704,15,,,,,,,
+Victoria Park Subway Station - SMART,43.6940155,-79.2889842,20,,,,,,,
+Queen St E / Berkeley St,43.6552778,-79.36583333333333,15,Domino's PizzaOriental Taste RestaurantOriental Taste RestaurantSushi Taste Finest Japanese,restaurantrestaurantbarbar,164.0,0.0,2.0,2.0,4.0
+Queen St. E / Spruce Hill Rd.,43.672571,-79.289,15,Delhi BistroDelhi BistroWinexpert Beach Winery TorontoDvine Gelato Lounge & Coffee Bar,restaurantbarbarbar,147.0,0.0,3.0,1.0,4.0
+Gerrard St E / Main St,43.684261,-79.299332,23,,,,,,,
+Bay St / Queens Quay W (Ferry Terminal),43.640978,-79.376785,34,Best Hotdog GuyToula Ristorante & BarMacDonald Bank,restaurantbarbank,83.0,1.0,1.0,1.0,3.0
+Wellesley Station Green P,43.66496415990742,-79.38355031526893,10,DakgogiJc’s GrillhouseFox and FiddleCasa de Flip FlopFoster's Bar & Grill,restaurantrestaurantbarbarbar,160.0,0.0,3.0,2.0,5.0
+Baldwin St / Spadina Ave - SMART,43.654905,-79.398448,19,Meet Fresh TorontoAugust 8 Dim Sum & SushiPapa SpicyChine Legendary Hot Pot & Noodles 重慶秦媽Sang's Great Food LtdMashion Bakery,restaurantrestaurantrestaurantrestaurantrestaurantrestaurant,195.0,0.0,0.0,6.0,6.0
+Tyndall Ave / King St W - SMART,43.638426,-79.429142,15,,,,,,,
+Front St W / Blue Jays Way,43.643473,-79.390477,13,Thai ExpressVia CiboConcierge LoungeChili's Grill & BarRBC Royal Bank,restaurantrestaurantbarbarbank,215.0,1.0,2.0,2.0,5.0
+Gerrard St E / River St,43.663993,-79.358534,10,,,,,,,
+King St E / Jarvis St,43.650325,-79.372287,25,Biagio RistoranteCurl BarRBC Royal Bank,restaurantbarbank,63.0,1.0,1.0,1.0,3.0
+Bay St / Harbour St ,43.64215,-79.377,22,Miller TavernMiller TavernAndrew's Californian Dream PatioYork Financial Group,restaurantbarbarbank,155.0,1.0,2.0,1.0,4.0
+Thompson St / Carroll St,43.65907064983235,-79.35240134225845,19,,,,,,,
+Hillsdale Ave E / Mount Pleasant Rd,43.70512126615395,-79.3890271081274,15,Zee GrillXO GelatoZee GrillRBC Royal Bank,restaurantbarbarbank,157.0,1.0,2.0,1.0,4.0
+Bloor St W / Kingsmill Rd,43.64927890131737,-79.50312995581972,11,,,,,,,
+Don Mills Rd / Fairview Mall Dr,43.77888550790407,-79.34837169762268,15,Dr. Bargman Howard,bar,23.0,0.0,1.0,0.0,1.0
+Berkeley St / Adelaide St E - SMART,43.653359,-79.365023,12,Powerhouse CastingFeld Kalia Barristers & Solicitors,barbar,51.0,0.0,2.0,0.0,2.0
+Front St W / University Ave (1),43.6451635,-79.3831757,18,Kellys LandingKellys LandingStarbucks,restaurantbarbar,61.0,0.0,2.0,1.0,3.0
+Danforth Rd / Birchmount Rd ,43.70688,-79.26850999999999,14,EggsmartSubwayPizza HutBig Tree Restaurant & BarSubwayEggsmartPizza HutBirchmount Country Bar and Cactus Pete's,restaurantrestaurantrestaurantbarbarbarbarbar,279.0,0.0,5.0,3.0,8.0
+Dunn Ave / Queen St W,43.639522754211804,-79.43395976815727,14,,,,,,,
+Braemar Ave / Eglinton Ave W,43.7041957,-79.4094472,15,Tim HortonsKimono Japanese Grill & SushiTim HortonsLcboThe Tea EmporiumKimono Japanese Grill & SushiNikko SushiPorco Levy Zavet LLP Barristers & SolicitorsCIBC,restaurantrestaurantbarbarbarbarbarbarbank,312.0,1.0,6.0,2.0,9.0
+John St  / Mercer St - SMART,43.6461,-79.3895,11,A&W RestaurantA&W RestaurantBell Blue RoomTIFF Members Lounge - Bell Blue RoomVineyards Wine Bar BistroKinoya Sushi BarManumit the Net Seafood Bar,restaurantbarbarbarbarbarbar,257.0,0.0,6.0,1.0,7.0
+800 Fleet St (North),43.63682856154585,-79.40884160367011,31,,,,,,,
+25 York St – Union Station South,43.643667,-79.380414,11,Oasis MLSEAria RistoranteFresh at TELUSO'Brien's BarSher Club by Drake,restaurantrestaurantrestaurantbarbar,161.0,0.0,2.0,3.0,5.0
+Nelson St / Duncan St,43.648711,-79.389728,31,RendezviewsBeer Cart,restaurantbar,92.0,0.0,1.0,1.0,2.0
+Essex St / Christie St,43.6686111,-79.42027777777778,19,Fiesta Farms,bar,48.0,0.0,1.0,0.0,1.0
+Eastwood Rd / Woodbine Ave - SMART,43.676216,-79.309395,14,,,,,,,
+G Ross Lord Park,43.7781116,-79.467963,17,,,,,,,
+Briar Hill Ave / Yonge St - SMART,43.713524,-79.400162,15,Himalayan JavaSorn Thai RestaurantSushi ShopHimalayan JavaSushi ShopSorn Thai RestaurantBark & FitzBark and Yonge,restaurantrestaurantrestaurantbarbarbarbarbar,206.0,0.0,5.0,3.0,8.0
+D'Arcy St / McCaul St - SMART,43.655227,-79.39201,15,Krispy KremeKrispy Kreme,restaurantbar,64.0,0.0,1.0,1.0,2.0
+Crawford St / Queen St W,43.645665,-79.415345,19,,,,,,,
+Queen St W / Ossington Ave,43.643975,-79.419576,31,Cafe NeonCafe NeonQW TorontoTD Bank Financial GroupCoinFlip Bitcoin ATMTD Canada Trust Branch and ATMTD Canada Trust ATM,restaurantbarbarbankbankbankbank,156.0,4.0,2.0,1.0,7.0
+Albany Ave / Bloor St W,43.66554144421798,-79.41010317605742,14,A&W RestaurantSmoke's Poutinerie IncGhazale RestaurantBurger TribeNew Generation Grill FusionNew Generation SushiKnockout ChickenTop Gun BurgersJapan SushiPopeye's Louisiana KitchenPaupers PubHot Docs Ted Rogers CinemaSmoke's Poutinerie IncThe Beer StationNew Generation SushiGhaziFuzz Wax BarMoney Mart,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbank,601.0,1.0,7.0,10.0,18.0
+Bloor St W / Shaw St - SMART,43.662403,-79.423098,34,Tapi GoéTapi GoRiki SushiCock-A-Doodle-Doo Gluten-Free BakeshopMachino DonutsParadise GrapevineRiki SushiCock-A-Doodle-Doo Gluten-Free BakeshopArt Ink Collective TattoosManolito Bar CafeAlen Sports Bar & Restaurant,restaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbar,320.0,0.0,6.0,5.0,11.0
+York St / Wellington St W (2),43.647043061824,-79.38314120681535,27,Pi CoCP Tower Food CourtWat-Ah Jerk Caribbean GrillJimmy the GreekKoha Pacific KitchenTahiniFirst Asset FundsHSBC of CanadaTD Canada Trust Branch and ATM,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantbankbankbank,299.0,3.0,0.0,6.0,9.0
+Lumsden Ave / Eastdale Ave,43.69413548199171,-79.30058718775287,19,,,,,,,
+Parliament St / Aberdeen Ave,43.665278,-79.368333,15,Kibo Sushi HouseSubwayKibo Sushi HousePlanet ParadiseJet Fuel Coffee Shop IncCabbagetown Barber ShopBarracuda Home & Garden AccessoriesBarracuda,restaurantrestaurantbarbarbarbarbarbar,258.0,0.0,6.0,2.0,8.0
+Driftwood Ave / Finch Corridor Trail,43.7603624,-79.5162777,18,,,,,,,
+Keele St / Annette St,43.66402,-79.46418,15,,,,,,,
+Lower Spadina Ave / Lake Shore Blvd W,43.638497,-79.39192,19,,,,,,,
+Temperance St / Bay St,43.6506,-79.381285,23,John & Sons Oyster HouseBluestone Grill & BarJohn & Sons Oyster HouseJustin Anisman-Barrister & SolicitorSherman Richard Barrister & SolicitorRotondo & Heselden Barristers & SolicitorsZa Cafe Pizzeria + BarMTL BarristerCafe Tabac BarSabsay Lorne Barr & SolctrBlue Stone Grill & BarIntegral Wealth Securities LtdICICI Bank Canada,restaurantbarbarbarbarbarbarbarbarbarbarbankbank,432.0,2.0,10.0,1.0,13.0
+St Clair Ave W / Robina Ave,43.68005,-79.43469,15,Bar 918Henry's BarBar Nine One EightMargo's Barber Shop,barbarbarbar,141.0,0.0,4.0,0.0,4.0
+Colgate Ave / Carlaw Ave,43.6623658,-79.3413344,19,,,,,,,
+Park Lawn Rd / Berry Rd,43.63605238134247,-79.49325238769686,14,,,,,,,
+Lake Shore Blvd E / Leslie St,43.659195,-79.329196,19,,,,,,,
+51 Parliament St,43.652169,-79.362841,18,Bitcoin ATM,bank,33.0,1.0,0.0,0.0,1.0
+Emmett Ave,43.68735514096443,-79.50623313806341,18,,,,,,,
+York St / Harbour St (Love Park),43.64101663053319,-79.38035903750381,14,Kinka IzakayaKinton RamenKinka Izakaya,restaurantrestaurantbar,124.0,0.0,1.0,2.0,3.0
+Bloor St W / Dundas St W,43.6563889,-79.45166666666667,13,Jekyl & Hyde Pub,bar,37.0,0.0,1.0,0.0,1.0
+Humber River Hospital ,43.72537884183677,-79.48719674218903,14,,,,,,,
+60 Carl Hall Rd - SMART,43.74796393423666,-79.47521217354125,20,,,,,,,
+Bay St / St. Joseph St,43.665527,-79.387499,14,Tabriz Persian CookhouseSecond Cup CaféHero Certified BurgersTabriz Persian Cookhouse,restaurantrestaurantrestaurantbar,110.0,0.0,1.0,3.0,4.0
+Yonge St / Dundas Sq,43.655766,-79.3802,31,Solam BoyzCafe OroTony’s Gelato ShopJack Astor'sPopeye's Louisiana KitchenTassimoTwilight CafeThe 3 BrewersYonge-Dundas SquareJack Astor'sHaistings BarbershopBest Bargains,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbar,448.0,0.0,5.0,7.0,12.0
+Bay St / College St (West Side) - SMART,43.660087,-79.385655,16,PizzaioloDeer Garden SignaturesNeo Coffee Bar Bay X CollegeBagel Stop College ParkSilk Road Kabob HouseNeo Coffee BarNeo Coffee Bar Bay X CollegeBMO Bank of Montreal,restaurantrestaurantrestaurantrestaurantrestaurantbarbarbank,216.0,1.0,2.0,5.0,8.0
+Amelia St / Sumach St,43.66852,-79.363525,11,,,,,,,
+Bond St / Queen St E,43.653236,-79.376716,35,,,,,,,
+Noble St / Queen St W,43.6424558,-79.4296346,15,Rustic Cosmo CafeRustic Cosmo CafeBarton Floor Coverings,restaurantbarbar,132.0,0.0,2.0,1.0,3.0
+Church St / Dundas St E - SMART,43.657024,-79.377257,19,Merchandise Bldg Barbecue PatioMerch Rooftop Party RoomMerchandise Bldg Barbecue Patio,restaurantbarbar,111.0,0.0,2.0,1.0,3.0
+Arlington Parkette,43.69105005197055,-79.43281746494293,12,,,,,,,
+Mortimer Ave / Carlaw Ave SMART,43.685167,-79.34962,12,,,,,,,
+Kingston Rd / Beech Ave,43.680095,-79.291714,13,,,,,,,
+Rusholme Park Cres / College St,43.65277778,-79.42972222,13,,,,,,,
+Boston Ave / Queen St E- SMART,43.661601650964336,-79.33894582857273,12,BaldiniEastside SocialWei BarEastside SocialBaldiniQueen's Bar & Grill,restaurantrestaurantbarbarbarbar,145.0,0.0,4.0,2.0,6.0
+Augusta Ave / Dundas St W,43.652473,-79.401456,13,Tree Top African CafeRound VenueHonour Snack Bar,restaurantbarbar,97.0,0.0,2.0,1.0,3.0
+Hocken Ave / Vaughan Rd,43.6817346,-79.4184725,18,N&S Quick Stop Bar & Take OutBooyahN&S Quick Stop Bar & Take OutDem Cafe & Bar,restaurantbarbarbar,157.0,0.0,3.0,1.0,4.0
+12 Harbour St,43.6425636,-79.3762,14,Ahmed Chips WagonThe Butcher ChefLow Town,restaurantrestaurantbar,110.0,0.0,1.0,2.0,3.0
+St Clair Ave W / Caledonia Rd,43.6754247,-79.4547813,14,Caledonia Bakery & PastryDairy FreezerCaledonia Bakery & PastryDairy FreezerCoffee Time,restaurantrestaurantbarbarbar,136.0,0.0,3.0,2.0,5.0
+York Recreation Centre,43.688153079245126,-79.48219789940566,23,,,,,,,
+Tobermory Dr / Finch Corridor Trail,43.7611741,-79.5114452,19,,,,,,,
+20 Charles St E,43.6691099,-79.38551,20,Tokyo KitchenSalad HouseNaan & KabobTokyo KitchenNani's GelatoSalad HouseTika Tea HouseMiss KoreaDan Barnabic Professional Legal SvcBeauty Bar Laser ClinicTD Green Machine,restaurantrestaurantrestaurantbarbarbarbarbarbarbarbank,469.0,1.0,7.0,3.0,11.0
+Priscilla Ave / Dundas St W,43.664665,-79.489385,22,,,,,,,
+Dufferin St / Sylvan Av (Dufferin Grove Park),43.6555556,-79.43361111111112,19,A&W RestaurantA&W Restaurant,restaurantbar,72.0,0.0,1.0,1.0,2.0
+Shuter St/River St,43.659296,-79.358035,15,,,,,,,
+York University Station (South) - SMART,43.77345,-79.5002,16,,,,,,,
+Frederick St / King St E,43.651118,-79.369411,46,The Chefs' HousePatrician GrillButter Chicken RotiPizzaForno,restaurantrestaurantrestaurantrestaurant,153.0,0.0,0.0,4.0,4.0
+19 Glendora Ave,43.75921143833388,-79.40960364801701,11,Yama SushiAlisa Mazo Barrister & SolicitorBargain MaxVal Chowbay Barrister & SolicitorScotiabankPerichem Trading Inc,barbarbarbarbankbank,258.0,2.0,4.0,0.0,6.0
+Wallace Ave / Symington Ave - SMART,43.661324,-79.449534,10,,,,,,,
+University Ave / Queen St W,43.65052424212547,-79.38672702579497,18,M & M Food MarketHot Dog Cart at Adelaide & YorkBMO Bank of Montreal,restaurantrestaurantbank,67.0,1.0,0.0,2.0,3.0
+King St W / Joe Shuster Way,43.639444,-79.423611,23,,,,,,,
+Simcoe St / Wellington St W South,43.6458569,-79.3853654,26,Omniwa Japanese CuisineLite BiteRBC Royal BankRBC Royal BankRbc Phillips- Hager & North Investment Counsel I ncMeridian Credit Union ATM,restaurantrestaurantbarbankbankbank,227.0,3.0,1.0,2.0,6.0
+Nassau St / Bellevue Ave,43.65484215542248,-79.40351232494366,14,ValentinaKos Restaurant,restaurantbar,49.0,0.0,1.0,1.0,2.0
+Pretoria Ave / Broadview Ave,43.6783213,-79.35822,19,Broadview EspressoBroadview EspressoTD Bank Financial GroupCoinFlip Bitcoin ATMTD Canada Trust ATM,restaurantbarbankbankbank,141.0,3.0,1.0,1.0,5.0
+Neil McLellan Park,43.65143,-79.47779,14,Baka Gallery CafeZaza Espresso BarBaka Gallery CafeQueen's Pasta Cafe,restaurantbarbarbar,173.0,0.0,3.0,1.0,4.0
+Dundonald St / Church St,43.66663,-79.38148,37,Storm Crow ManorFabarnakStorm Crow ManorFabarnakBlack LodgeThe Vic Lounge519's Beer GardenAlto Lounge,restaurantrestaurantbarbarbarbarbarbar,254.0,0.0,6.0,2.0,8.0
+Union Station,43.645609,-79.380386,42,Amano PastaAmano PastaBooster JuiceFront Street Bar & GrillTD Bank Financial GroupCIBCTD Canada Trust Branch and ATM,restaurantbarbarbarbankbankbank,186.0,3.0,3.0,1.0,7.0
+Bathurst St / Housey St,43.63781903961206,-79.40013176752855,23,Tim HortonsStarbucks,barbar,82.0,0.0,2.0,0.0,2.0
+Avenue Rd / Macpherson Ave ,43.67794376009951,-79.39836278587889,14,,,,,,,
+190 Queens Quay E,43.6451308,-79.36536439999999,14,,,,,,,
+265 Armadale Ave,43.6501644,-79.48296909999999,30,Fat Bastard Burrito CoFalafel WorldYumi Japanese RestaurantOsmow's ShawarmaFat Bastard Burrito CoFalafel WorldYumi Japanese Restaurant,restaurantrestaurantrestaurantrestaurantbarbarbar,298.0,0.0,3.0,4.0,7.0
+Gladstone Ave / Queen St W,43.64314139337404,-79.42728015945511,15,Lao Thai RestaurantPaint Nite,restaurantbar,96.0,0.0,1.0,1.0,2.0
+Lake Shore Blvd E / Knox Ave,43.660206,-79.3244,11,,,,,,,
+Wychwood Ave / Benson Ave - SMART,43.6809164,-79.4229684,16,,,,,,,
+Queen St W / Shaw St,43.6442457,-79.41610440000001,22,,,,,,,
+Lake Shore Blvd W / Brow Dr,43.591410003452495,-79.54418190344097,13,,,,,,,
+The Pond Rd / Sentinel Rd,43.7696262,-79.5025943,27,,,,,,,
+365 Lippincott St,43.6649482,-79.40947,31,Bombay RotiLee's PalaceThe Dance Cave,restaurantbarbar,107.0,0.0,2.0,1.0,3.0
+St Clair West Subway Station - Heath Entrance,43.686352,-79.415894,23,,,,,,,
+Fort York  Blvd / Capreol Ct,43.639832,-79.395954,46,CAFE DispensaryCAFE DispensaryBobo Tea & Juice,restaurantbarbar,118.0,0.0,2.0,1.0,3.0
+Lansdowne Ave / Whytock Ave,43.6538888888889,-79.4413888888889,13,,,,,,,
+Queens Park Cres / College St ,43.66018127636866,-79.39083271520538,23,,,,,,,
+Kewbeach Ave / Kenilworth Ave,43.666325,-79.3014,21,,,,,,,
+Queens Quay E / Merchants' Wharf,43.64643026333144,-79.3618163165329,25,,,,,,,
+Lake Shore Blvd W / Windermere Ave,43.634896,-79.467763,17,,,,,,,
+Sumach St / Carlton St (Riverdale Farm),43.665867,-79.362506,14,,,,,,,
+Bloor St W / Pacific Ave,43.65412449999999,-79.4636388,6,Vivo Pizza + PastaVivo Pizza + PastaRBC Royal Bank ATM,restaurantbarbank,117.0,1.0,1.0,1.0,3.0
+Marie Curtis Park,43.5880774,-79.5432067,22,,,,,,,
+College St / Crawford St,43.655,-79.418889,18,Northern Chinese CuisineThai Room CollegeThe Wing FactorySit in BangkokSicilian Sidewalk CafeSicilian Sidewalk CafeQue Ricos Tapas Bar,restaurantrestaurantrestaurantrestaurantrestaurantbarbar,267.0,0.0,2.0,5.0,7.0
+Dundas St E / Pembroke St ,43.658295,-79.372346,16,George's Deli & BBQGeorge's PizzaPapa John's PizzaMary Friends BarGeorge's Deli & BBQChefydrew'sPapa John's Pizza,restaurantrestaurantrestaurantbarbarbarbar,236.0,0.0,4.0,3.0,7.0
+Wells St / Brunswick Ave,43.67105163758377,-79.40904755211488,14,,,,,,,
+Rogers Rd / Prospect Cemetery,43.68323,-79.455765,23,,,,,,,
+Hubbard Blvd / Balsam Av,43.669328,-79.288949,19,,,,,,,
+Spadina Ave / Sussex Ave ,43.66402799999999,-79.40297869999999,34,,,,,,,
+Sentinel Rd / Sheppard Ave W,43.74386580997666,-79.49181654358595,15,,,,,,,
+541 Huron St - SMART,43.670206,-79.402643,19,,,,,,,
+Judson St / Royal York Rd,43.6162721,-79.4990363,16,,,,,,,
+Fort York Blvd / Bathurst St - SMART,43.639052,-79.399792,20,Sei47,bar,22.0,0.0,1.0,0.0,1.0
+Keele St / Vine Ave,43.66686,-79.46526,22,After Hours,bar,39.0,0.0,1.0,0.0,1.0
+College Park South,43.65945682499,-79.38236466864778,18,Suup Health BarBuster Rhinos BBQBoston PizzaWinner BBQ Chinese Cuisine DT 贼好吃的烤肉饭Bagel TimeMcCaféSushi & BBbopMarshallsExtremeBoston PizzaSuup Health BarBaruvidaLe Blanc Nails BarThrone BarbershopLindy's Bar & GrillBarclay Jewellery LtdRBC Royal BankBMO Bank of Montreal,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbarbankbank,545.0,2.0,9.0,7.0,18.0
+1926 Lake Shore Blvd W,43.6357643,-79.4674917,20,,,,,,,
+Wellington St W / Stafford St,43.6409957,-79.40966630000001,22,,,,,,,
+Centennial College (Ashtonbee Campus),43.73003601845614,-79.2920036521843,18,,,,,,,
+Chatham Ave / Byron Ave,43.6798678328407,-79.33424613862303,15,,,,,,,
+Niagara St / Portland St,43.6425791,-79.40011729999999,11,,,,,,,
+Carlaw Ave / Dundas St E,43.665076,-79.341509,17,Gare de l'EstBlackout Cafe Bar & LoungeGare de l'Est,restaurantbarbar,80.0,0.0,2.0,1.0,3.0
+Sunnybrook Health Centre - S Wing,43.720998,-79.377456,9,,,,,,,
+Tiago Ave / Westview Blvd,43.71101621552703,-79.30675743891624,13,,,,,,,
+Wynford Heights Cres / Concorde Pl,43.72749778259739,-79.32714222209015,10,Tim HortonsRBC Royal Bank,barbank,82.0,1.0,1.0,0.0,2.0
+High Park Subway Station,43.6543604,-79.4655296,9,,,,,,,
+Ward St / Wallace Ave,43.662857,-79.44618,14,,,,,,,
+Frederick St / The Esplanade,43.6487245,-79.36839,19,Bellissimo Pizzaria & RistoranteBellissimo Pizzaria & Ristorante,restaurantbar,46.0,0.0,1.0,1.0,2.0
+Avenue Rd / Cumberland St ,43.669821695059376,-79.39444614603269,15,Ambassador Chinese CuisineJOY on AvenueDanny's Barber Shop & Hairstyling,restaurantrestaurantbar,89.0,0.0,1.0,2.0,3.0
+Humber Bay Shores Park West,43.6224434,-79.480284,29,,,,,,,
+Yonge St / Montgomery Ave - SMART,43.70960859570095,-79.39915125005619,12,Stock T.CGrazie RistorantePascale GourmetGrazie RistoranteStock T.CPascale GourmetStock BarScotiabank,restaurantrestaurantrestaurantbarbarbarbarbank,321.0,1.0,4.0,3.0,8.0
+York St / Wellington St W (1) ,43.646734,-79.38301,22,Pi CoCP Tower Food CourtBento NouveauQuiznosJimmy the GreekYork Street CafeFresh West GrillLettieri Expresso BarFirst Asset FundsHSBC of Canada,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbankbank,398.0,2.0,1.0,7.0,10.0
+Queen St E / Sackville St,43.6561111,-79.36138888888888,14,,,,,,,
+101 Cedarvale Ave,43.6868681,-79.3110942,9,,,,,,,
+Jane St / Yewtree Blvd,43.75531728502427,-79.51704708227844,15,CIBC,bank,21.0,1.0,0.0,0.0,1.0
+Elizabeth St / Edward St (Bus Terminal),43.656026,-79.385327,14,AsahiBrown Donkatsu,restaurantrestaurant,87.0,0.0,0.0,2.0,2.0
+Hubbard Blvd / Glen Manor Dr,43.668633,-79.291162,14,,,,,,,
+Widmer St / King St W,43.6463574,-79.391206,10,Mix Bistro Restaurant and Bar at the Hyatt RegencyPigeon Café & BarKing Street Social Kitchen & Bar - Hyatt Regency Toronto00 GelatoHyatt Regency TorontoKing Street Social Kitchen and BarMix Bistro BarStudio Event Theatre - SETCanadian Bar & GrillMix Bistro Restaurant and Bar at the Hyatt RegencyPigeon Café & BarKing Street Social Kitchen & Bar - Hyatt Regency TorontoBarre 3,restaurantrestaurantrestaurantrestaurantbarbarbarbarbarbarbarbarbar,462.0,0.0,9.0,4.0,13.0
+Yonge St / Wood St,43.6622222,-79.3825,14,The Bistro - Courtyard by Marriott Toronto DowntownThe Bistro,restaurantrestaurant,86.0,0.0,0.0,2.0,2.0
+Woodbine Subway Station,43.686442,-79.313404,15,,,,,,,
+Lascelles Blvd / Eglinton Ave W,43.70547,-79.40355,19,Boom Breakfast & CoBoom Breakfast & Co,restaurantbar,70.0,0.0,1.0,1.0,2.0
+91 Via Italia,43.67665014253828,-79.44503029755326,28,Petilia Barber Shop,bar,39.0,0.0,1.0,0.0,1.0
+Sharpe St / Park St (Sandown Park),43.7105975,-79.2541175,15,,,,,,,
+Wellesley St E / Parliament St,43.6682342,-79.3702641,15,Pizza PizzaPizza Pizza,restaurantbar,90.0,0.0,1.0,1.0,2.0
+Glebe Rd W / Yonge St,43.7005976,-79.397345,18,Tabule RestaurantSushi SupremeSushi ZoneTabule RestaurantSushi SupremeSushi Zone,restaurantrestaurantrestaurantbarbarbar,304.0,0.0,3.0,3.0,6.0
+Palmerston Blvd / Lennox St,43.66335070995886,-79.41312798316125,8,,,,,,,
+Eglinton Ave W / Henning Ave SMART,43.7063473,-79.40161,20,King Jamaican FoodBarry a SmithCatalano Donald J Barrister SolicitorDr. Weiss Barbara NDWiri Kapurura Barrister & Solicitor,restaurantbarbarbarbar,161.0,0.0,4.0,1.0,5.0
+Caledonia Rd / Lotherton Pathway,43.70756436685646,-79.46571474966814,19,,,,,,,
+Eglinton Ave W / Scarlett Rd,43.6834703,-79.5108942,21,,,,,,,
+Harvie Ave / Rogers Rd,43.68402031135697,-79.45297885330353,19,,,,,,,
+Lake Shore Blvd W / Twenty Fourth St,43.597082,-79.522768,17,Snack ShackM & M Food MarketLazeez ShawarmaLong Branch Fish & ChipsChris's Market & CafeMai Mai RestaurantKapraty7-ElevenLong Branch Fish & ChipsScotiabankCIBC,restaurantrestaurantrestaurantrestaurantrestaurantrestaurantrestaurantbarbarbankbank,373.0,2.0,2.0,7.0,11.0
+Yonge St / Merton St ,43.6962750705313,-79.39629396191867,23,Bull & Firkin,bar,40.0,0.0,1.0,0.0,1.0
+Danforth Ave / Westlake Ave,43.687323,-79.304848,15,,,,,,,
+Erskine Ave / Yonge St SMART,43.7112153,-79.39894,16,Douce FranceGood Bite RestaurantStarbucksDouce FranceAnna's Barber ShopThe Men’s Chair BarberTD Bank Financial GroupTD Canada Trust ATMTD Canada Trust Branch and ATM,restaurantrestaurantbarbarbarbarbankbankbank,245.0,3.0,4.0,2.0,9.0
+Soho St / Queen St W,43.649649714291584,-79.39372141352654,15,Jetsun's JuicyburgerSolunaBlack Bull Hotel & Tavern,restaurantrestaurantbar,201.0,0.0,1.0,2.0,3.0
+Adelaide St E / Parliament St,43.65378337432506,-79.36335973372954,22,,,,,,,
+Davenport Rd / Dovercourt Rd - SMART,43.6741219,-79.4352208,16,,,,,,,
+Church St / Bloor St E,43.671389,-79.382919,14,Pi CoScotiabank,restaurantbank,31.0,1.0,0.0,1.0,2.0
+University Ave / Gerrard St W - SMART(South),43.65748153286412,-79.38921396018827,16,Jimmy the Greek,restaurant,35.0,0.0,0.0,1.0,1.0
+Liberty St / Fraser Ave Green P,43.637981,-79.424146,18,SCHOOL RestaurantSCHOOL Restaurant,restaurantbar,52.0,0.0,1.0,1.0,2.0
+St Clair Ave W / Avenue Rd ,43.68688938028234,-79.40099513147447,12,,,,,,,
+Robert St / Bloor St W - SMART,43.665846,-79.404998,18,,,,,,,
+Beverley St / College St,43.6575,-79.39527777777778,22,Spk Canada,bar,45.0,0.0,1.0,0.0,1.0
+George St / King St E,43.6509552,-79.3707,12,Le Petit DejeunerLe Petit DejeunerGabby's Eatery & TapsGabby's Restaurant GroupAlex Barbier GymKings Lounge Bar,restaurantbarbarbarbarbar,192.0,0.0,5.0,1.0,6.0
+Duncan St / Adelaide St W - SMART,43.64813057569729,-79.38858106137695,11,PaiGrace O'Malley'sThe PorchPaiBuffalo Bills Bar and Grill toRock N Horse SaloonDublin CallingEuroPubClub - EPCThe Vegas BarBar 244Strathy & Associates Barr & Solctr,restaurantbarbarbarbarbarbarbarbarbarbar,422.0,0.0,10.0,1.0,11.0
+Dentonia Park,43.694341,-79.291416,21,,,,,,,
+Blantyre Park,43.68306889999999,-79.279682,22,,,,,,,
+Ripley Ave / Ormskirk Ave,43.6390437,-79.4760109,22,,,,,,,
+College St / Huron St,43.658148,-79.398167,18,Tenshi TeriyakiSpirit Bird Bakery,restaurantrestaurant,52.0,0.0,0.0,2.0,2.0
+Bathurst St / Dundas St W,43.6518918789007,-79.40577861712723,25,Bailey's cafeMcDonald'sBathurst Local,restaurantrestaurantbar,130.0,0.0,1.0,2.0,3.0
+Ontario Place Blvd / Lake Shore Blvd W,43.6322445,-79.4108105,27,,,,,,,
+Bartlett Parkette,43.6702236,-79.4360232,21,En VilleGeary MarketBlood Brothers BrewingEn VilleGeary MarketBartlett Parkette,restaurantrestaurantbarbarbarbar,209.0,0.0,4.0,2.0,6.0
+Queen St W / Cowan Ave,43.64089724173822,-79.43283582518329,17,Gallery 1313,bar,46.0,0.0,1.0,0.0,1.0
+Sumach St  / Queen St E,43.656638,-79.358749,19,Savoury Grounds,bar,26.0,0.0,1.0,0.0,1.0
+Moore Park,43.693256,-79.383238,15,,,,,,,
+Queen St E / Woodward Ave,43.665269,-79.319796,18,,,,,,,
+Front St E / Bayview Avenue,43.6535,-79.354068,21,Souk TabuleSukhothaiThe AviarySouk TabuleLongslice BrewerySukhothai,restaurantrestaurantbarbarbarbar,251.0,0.0,4.0,2.0,6.0
+E.T Seton Park - South ,43.70503461857136,-79.33547292037659,23,,,,,,,
+St Clair Ave W / Bathurst St.,43.683296,-79.418734,18,Pizza Del ArteSubwayMenchiesPizza Del ArteSubwayBari's Fine FoodBari Delicatessen LtdSteven Vano Barrister and SolicitorTD Bank Financial GroupLocalcoin Bitcoin ATM - INS MarketTD Canada Trust ATMTD Canada Trust Branch and ATM,restaurantrestaurantbarbarbarbarbarbarbankbankbankbank,331.0,4.0,6.0,2.0,12.0
+The Pond Rd / Ian Macdonald Blvd,43.77086729028769,-79.49812990660705,14,,,,,,,
+Carlaw Ave / Danforth Ave,43.678285,-79.347346,15,Pizzeria LibrettoSt. Louis Bar & GrillTapps Restaurant & BarGencor Espresso Wine BarPizzeria LibrettoRivals Sports PubIQ LivingMarvel Coffee CoCIBC,restaurantbarbarbarbarbarbarbarbank,281.0,1.0,7.0,1.0,9.0
+Logan Ave / Bain Ave,43.6720273,-79.3470557,19,,,,,,,
+Sterling Rd / Dundas St W,43.6508333333333,-79.4430555555556,18,,,,,,,
+Gould St / Yonge St (TMU),43.657424,-79.381019,22,Five Guys Burgers & FriesBanh Mi BoysBanh Mi BoysSilver Snail ComicsFive Guys Burgers & FriesBlack Canary Espresso Bar,restaurantrestaurantbarbarbarbar,234.0,0.0,4.0,2.0,6.0
+406 Oakwood Ave,43.68827060022711,-79.43937767081853,16,,,,,,,
+Simcoe St / Queen St W,43.65049,-79.3873,38,Hot Dog Cart at Adelaide & YorkM & M Food MarketARA Japanese RestaurantHakata Shoryuken RamenCIBCBMO Bank of Montreal,restaurantrestaurantrestaurantrestaurantbankbank,191.0,2.0,0.0,4.0,6.0
+Cherry Beach Sports Fields (55 Unwin Ave),43.6408346,-79.3429074,29,,,,,,,
+Brimley Rd / Lawrence Ave E ,43.75404854399297,-79.2553167552948,39,,,,,,,
+Dundas St W / Roncesvalles Ave Green P -SMART,43.6534268,-79.4512787,11,Ali Baba's Middle Eastern CuisineAli Baba's Middle Eastern CuisineGloria Espresso Bar & CafeBaraca Halal Variety,restaurantbarbarbar,142.0,0.0,3.0,1.0,4.0
+Pottery Rd / Lower Don River Trail,43.688148,-79.362101,15,,,,,,,
+457 King St W,43.6452091,-79.3960744,19,PatriaSPiN Toronto2nd Floor EventsSOMA chocolatemakerPatriaFine Wine Reserve,restaurantbarbarbarbarbar,275.0,0.0,5.0,1.0,6.0
+Danforth Ave / Coxwell Ave,43.683378,-79.322961,15,Sunset GrillTKO's the Sports PubSunset GrillMofer CoffeeA&W RestaurantReilly Mary Patricia BarrAlterna BankAlterna SavingsCIBC,restaurantbarbarbarbarbarbankbankbank,240.0,3.0,5.0,1.0,9.0
+Bloor St W / Brock Ave,43.6589882,-79.438715,9,Island OystersRainbow Restaurant & Bar,restaurantbar,87.0,0.0,1.0,1.0,2.0
+Wells Hill Ave / St Clair Ave W,43.683351,-79.41562,15,,,,,,,
+Bay St / Dundas St W,43.655350778457056,-79.38345966759798,55,Aroma Espresso BarAroma Espresso BarFoundation BarRBC Royal Bank,restaurantbarbarbank,145.0,1.0,2.0,1.0,4.0
