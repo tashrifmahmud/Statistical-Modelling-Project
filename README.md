@@ -1,4 +1,5 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Final Project - Statistical Modelling with Python
+> Tashrif Mahmud
 
 Hello, this is **Tashrif Mahmud** and welcome to my Python Project for Lighthouse Labs!
 
